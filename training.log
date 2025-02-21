@@ -1,0 +1,1810 @@
+2025-02-20 23:47:03,564 - INFO - No existing checkpoints found. Starting from step 0.
+2025-02-20 23:47:14,323 - INFO - Step 0 - Loss: 10.9748, Load Balancing Loss: 0.0190
+2025-02-20 23:47:20,434 - INFO - Saved checkpoint at step 0
+2025-02-20 23:47:20,445 - INFO - Sample generation:
+ In today's ever-evolving world, technology has become an integral part of our lives, shaping the way we learn, work, and communicate. The COVID-19 pandemic has only accelerated this trend, forcing educational institutions worldwide to adapt quickly to remote learning models. As such, social studies integration in elementary education can greatly benefit from incorporating digital tools like those offered by Ruangguru's Online School. Let's explore how educators can effectively leverage these resources to create engaging and meaningful learning experiences for young students.
+
+Firstly, let's define what we mean by social studies integration. Social studies encompasses various disciplines that help students understand their communities
+2025-02-20 23:47:52,926 - INFO - Step 10 - Loss: 9.9605, Load Balancing Loss: 0.0208
+2025-02-20 23:48:25,118 - INFO - Step 20 - Loss: 9.4502, Load Balancing Loss: 0.0163
+2025-02-20 23:48:57,333 - INFO - Step 30 - Loss: 8.9452, Load Balancing Loss: 0.0189
+2025-02-20 23:49:29,551 - INFO - Step 40 - Loss: 8.6907, Load Balancing Loss: 0.0205
+2025-02-20 23:50:01,684 - INFO - Step 50 - Loss: 8.3234, Load Balancing Loss: 0.0158
+2025-02-20 23:50:31,469 - INFO - Step 60 - Loss: 8.5215, Load Balancing Loss: 0.0157
+2025-02-20 23:51:03,710 - INFO - Step 70 - Loss: 8.4922, Load Balancing Loss: 0.0139
+2025-02-20 23:51:36,005 - INFO - Step 80 - Loss: 7.6355, Load Balancing Loss: 0.0169
+2025-02-20 23:52:08,209 - INFO - Step 90 - Loss: 7.4245, Load Balancing Loss: 0.0393
+2025-02-20 23:52:40,373 - INFO - Step 100 - Loss: 7.9771, Load Balancing Loss: 0.0224
+2025-02-20 23:52:46,103 - INFO - Saved checkpoint at step 100
+2025-02-20 23:52:46,103 - INFO - Sample generation:
+## Chaos Theory and the Ikeda Map
+
+Chaos theory is a branch of mathematics that deals with the behavior of nonlinear dynamical systems that are highly sensitive to initial conditions. This sensitivity leads to unpredictability, which is often referred to as the butterfly effect. In this section, we will explore the Ikeda map, a famous example of a chaotic system.
+
+### The Ikeda Map
+
+The Ikeda map is a discrete-time dynamical system that was introduced by Kensuke Ikeda in 1979. It is a two-dimensional map that describes the behavior
+2025-02-20 23:53:18,525 - INFO - Step 110 - Loss: 7.2936, Load Balancing Loss: 0.0449
+2025-02-20 23:53:51,145 - INFO - Step 120 - Loss: 8.0142, Load Balancing Loss: 0.0525
+2025-02-20 23:54:21,387 - INFO - Step 130 - Loss: 7.4673, Load Balancing Loss: 0.0378
+2025-02-20 23:54:53,686 - INFO - Step 140 - Loss: 7.8906, Load Balancing Loss: 0.0292
+2025-02-20 23:55:26,091 - INFO - Step 150 - Loss: 7.9787, Load Balancing Loss: 0.0442
+2025-02-20 23:55:58,372 - INFO - Step 160 - Loss: 7.2705, Load Balancing Loss: 0.0792
+2025-02-20 23:56:30,661 - INFO - Step 170 - Loss: 7.2371, Load Balancing Loss: 0.0864
+2025-02-20 23:57:02,937 - INFO - Step 180 - Loss: 6.4490, Load Balancing Loss: 0.0849
+2025-02-20 23:57:35,219 - INFO - Step 190 - Loss: 7.2912, Load Balancing Loss: 0.0836
+2025-02-20 23:58:07,497 - INFO - Step 200 - Loss: 7.2366, Load Balancing Loss: 0.0697
+2025-02-20 23:58:13,417 - INFO - Saved checkpoint at step 200
+2025-02-20 23:58:13,422 - INFO - Sample generation:
+ Once upon a time in the magical land of Devon, there lived ten curious friends named after famous literary figures - Agatha, Sammy, Charlie, Teddy, Johnny Gay, Harry, Mary, John B., Henry, and Galsworthy. They all had unique personalities and loved exploring the world around them. One sunny day, they decided to go on a nature hike and learn about different types of plants and animals.
+
+As they walked deeper into the forest, Agatha noticed something peculiar. "Look! These flowers are glowing!" she exclaimed. Sammy, being a fan of poetry, recited, "There was a little girl who
+2025-02-20 23:58:45,865 - INFO - Step 210 - Loss: 6.9581, Load Balancing Loss: 0.0728
+2025-02-20 23:59:18,215 - INFO - Step 220 - Loss: 6.6718, Load Balancing Loss: 0.0731
+2025-02-20 23:59:50,511 - INFO - Step 230 - Loss: 7.0838, Load Balancing Loss: 0.0763
+2025-02-21 00:00:22,857 - INFO - Step 240 - Loss: 6.4733, Load Balancing Loss: 0.0652
+2025-02-21 00:00:55,165 - INFO - Step 250 - Loss: 7.9046, Load Balancing Loss: 0.0840
+2025-02-21 00:01:27,416 - INFO - Step 260 - Loss: 6.6939, Load Balancing Loss: 0.0799
+2025-02-21 00:01:59,710 - INFO - Step 270 - Loss: 6.7218, Load Balancing Loss: 0.0806
+2025-02-21 00:02:31,979 - INFO - Step 280 - Loss: 6.4893, Load Balancing Loss: 0.0685
+2025-02-21 00:03:04,222 - INFO - Step 290 - Loss: 7.2816, Load Balancing Loss: 0.0722
+2025-02-21 00:03:36,449 - INFO - Step 300 - Loss: 7.4409, Load Balancing Loss: 0.0828
+2025-02-21 00:03:42,262 - INFO - Saved checkpoint at step 300
+2025-02-21 00:03:42,266 - INFO - Sample generation:
+ Course Unit: Inclusive Language and Jesus' Life and Ministry
+
+In recent decades, discussions surrounding inclusive language in biblical translations have gained significant attention, particularly in English-speaking contexts where they are sometimes referred to as gender-neutral translations. These debates reveal underlying hermeneutical and socio-political differences that challenge established power dynamics within both biblical scholarship and religious institutions. This course unit will delve into these controversies by examining how inclusive language relates to Jesus' life and ministry as presented in the New Testament.
+
+1. Understanding Inclusive Language
+
+To begin, it is essential to understand what constitutes inclusive language. In this context, inclusive language seeks to avoid
+2025-02-21 00:04:14,790 - INFO - Step 310 - Loss: 6.3303, Load Balancing Loss: 0.0808
+2025-02-21 00:04:47,070 - INFO - Step 320 - Loss: 6.6094, Load Balancing Loss: 0.0873
+2025-02-21 00:05:19,485 - INFO - Step 330 - Loss: 6.7531, Load Balancing Loss: 0.0771
+2025-02-21 00:05:51,761 - INFO - Step 340 - Loss: 6.8322, Load Balancing Loss: 0.0540
+2025-02-21 00:06:24,011 - INFO - Step 350 - Loss: 6.3459, Load Balancing Loss: 0.0767
+2025-02-21 00:06:56,298 - INFO - Step 360 - Loss: 6.6990, Load Balancing Loss: 0.0581
+2025-02-21 00:07:28,591 - INFO - Step 370 - Loss: 7.5416, Load Balancing Loss: 0.0837
+2025-02-21 00:08:00,950 - INFO - Step 380 - Loss: 7.5679, Load Balancing Loss: 0.0731
+2025-02-21 00:08:33,222 - INFO - Step 390 - Loss: 6.8506, Load Balancing Loss: 0.0718
+2025-02-21 00:09:05,792 - INFO - Step 400 - Loss: 7.4131, Load Balancing Loss: 0.0786
+2025-02-21 00:09:12,554 - INFO - Saved checkpoint at step 400
+2025-02-21 00:09:12,554 - INFO - Sample generation:
+ Business-to-Business (B2B) e-commerce has become a critical aspect of modern commerce, enabling organizations to streamline their operations, reduce costs, and improve efficiency by conducting business electronically. At its core, B2B e-commerce involves the use of technology to facilitate transactions and exchange data between businesses. This chapter will delve into two key concepts underpinning B2B e-commerce: Electronic Data Interchange (EDI) and Application Programming Interfaces (APIs). We will explore these concepts in detail, examining their history, benefits, challenges, and best practices.
+
+**Electronic Data Interchange (EDI)**
+2025-02-21 00:09:45,459 - INFO - Step 410 - Loss: 7.1335, Load Balancing Loss: 0.0819
+2025-02-21 00:10:17,812 - INFO - Step 420 - Loss: 7.1226, Load Balancing Loss: 0.0619
+2025-02-21 00:10:50,122 - INFO - Step 430 - Loss: 7.2451, Load Balancing Loss: 0.0810
+2025-02-21 00:11:22,582 - INFO - Step 440 - Loss: 7.5498, Load Balancing Loss: 0.0805
+2025-02-21 00:11:54,930 - INFO - Step 450 - Loss: 6.1711, Load Balancing Loss: 0.0834
+2025-02-21 00:12:27,206 - INFO - Step 460 - Loss: 7.1689, Load Balancing Loss: 0.0763
+2025-02-21 00:12:59,469 - INFO - Step 470 - Loss: 6.1867, Load Balancing Loss: 0.0758
+2025-02-21 00:13:31,721 - INFO - Step 480 - Loss: 5.6684, Load Balancing Loss: 0.0731
+2025-02-21 00:14:03,942 - INFO - Step 490 - Loss: 6.8190, Load Balancing Loss: 0.0584
+2025-02-21 00:14:36,156 - INFO - Step 500 - Loss: 6.6532, Load Balancing Loss: 0.0808
+2025-02-21 00:14:42,560 - INFO - Saved checkpoint at step 500
+2025-02-21 00:14:42,573 - INFO - Sample generation:
+ Course Unit: Crisis Mapping and Geospatial Analysis in Emergency Management
+
+Imagine you are part of a team responsible for helping people affected by natural disasters like hurricanes, wildfires, or floods. Your job is to gather information about the crisis, analyze it quickly, and then decide where to send aid, such as food, water, medicine, and other supplies. This is where crisis mapping and geospatial analysis come into play! Let's learn more about these powerful tools.
+
+What is crisis mapping?
+------------------------
+
+Crisis mapping is a way to visualize important information during emergencies using maps. These maps show things like the location of people
+2025-02-21 00:15:14,995 - INFO - Step 510 - Loss: 6.1816, Load Balancing Loss: 0.0859
+2025-02-21 00:15:47,223 - INFO - Step 520 - Loss: 6.7932, Load Balancing Loss: 0.0787
+2025-02-21 00:16:19,490 - INFO - Step 530 - Loss: 6.5603, Load Balancing Loss: 0.0868
+2025-02-21 00:16:51,783 - INFO - Step 540 - Loss: 6.8859, Load Balancing Loss: 0.0803
+2025-02-21 00:17:24,055 - INFO - Step 550 - Loss: 6.6879, Load Balancing Loss: 0.0808
+2025-02-21 00:17:56,313 - INFO - Step 560 - Loss: 7.1350, Load Balancing Loss: 0.0734
+2025-02-21 00:18:28,629 - INFO - Step 570 - Loss: 5.6594, Load Balancing Loss: 0.0689
+2025-02-21 00:19:00,914 - INFO - Step 580 - Loss: 5.8254, Load Balancing Loss: 0.0811
+2025-02-21 00:19:33,137 - INFO - Step 590 - Loss: 5.4654, Load Balancing Loss: 0.0752
+2025-02-21 00:20:05,353 - INFO - Step 600 - Loss: 7.2364, Load Balancing Loss: 0.0808
+2025-02-21 00:20:11,084 - INFO - Saved checkpoint at step 600
+2025-02-21 00:20:11,091 - INFO - Sample generation:
+ Chapter 8: Slalom Skating - Zigzagging Fun on Wheels!
+
+Have you ever seen someone zipping down the sidewalk, smoothly turning between obstacles while standing on roller skates? That's slalom skating! This thrilling recreation activity combines balance, agility, and speed into one fantastic experience. Let's dive into this fun world together!
+
+**What Is Slalom Skating?**
+
+Imagine yourself wearing a pair of cool roller skates, navigating through a playground full of cones set up in a winding pattern. You dodge left and right, swiftly changing directions while maintaining control and style – that's slalom
+2025-02-21 00:20:43,750 - INFO - Step 610 - Loss: 5.9712, Load Balancing Loss: 0.0814
+2025-02-21 00:21:16,073 - INFO - Step 620 - Loss: 7.4486, Load Balancing Loss: 0.0412
+2025-02-21 00:21:48,266 - INFO - Step 630 - Loss: 7.1860, Load Balancing Loss: 0.0887
+2025-02-21 00:22:20,437 - INFO - Step 640 - Loss: 6.7674, Load Balancing Loss: 0.0864
+2025-02-21 00:22:52,708 - INFO - Step 650 - Loss: 5.4266, Load Balancing Loss: 0.0872
+2025-02-21 00:23:24,920 - INFO - Step 660 - Loss: 6.8303, Load Balancing Loss: 0.0678
+2025-02-21 00:23:57,084 - INFO - Step 670 - Loss: 7.4033, Load Balancing Loss: 0.0808
+2025-02-21 00:24:29,336 - INFO - Step 680 - Loss: 6.3920, Load Balancing Loss: 0.0764
+2025-02-21 00:25:01,577 - INFO - Step 690 - Loss: 6.3392, Load Balancing Loss: 0.0677
+2025-02-21 00:25:33,796 - INFO - Step 700 - Loss: 6.1345, Load Balancing Loss: 0.0813
+2025-02-21 00:25:39,364 - INFO - Saved checkpoint at step 700
+2025-02-21 00:25:39,376 - INFO - Sample generation:
+I am happy to meet you and help you understand our planet and its inhabitants better. I see you are interested in learning about us, specifically our religion and beliefs. That's great! Let me tell you a story about one of our most well-known religious tales, the Nativity Story, which comes from the New Testament of the Bible. But before I start, let me clarify some basics about humans and our behavior.
+
+On Earth, people live in various groups called countries or societies, each having unique traditions and customs. We communicate using sounds and gestures, forming languages like English, which helps us express thoughts, emotions, and
+2025-02-21 00:26:11,727 - INFO - Step 710 - Loss: 6.1120, Load Balancing Loss: 0.0794
+2025-02-21 00:26:43,968 - INFO - Step 720 - Loss: 5.8992, Load Balancing Loss: 0.0786
+2025-02-21 00:27:16,226 - INFO - Step 730 - Loss: 6.1677, Load Balancing Loss: 0.0798
+2025-02-21 00:27:48,400 - INFO - Step 740 - Loss: 6.1261, Load Balancing Loss: 0.0706
+2025-02-21 00:28:20,589 - INFO - Step 750 - Loss: 5.6981, Load Balancing Loss: 0.0754
+2025-02-21 00:28:52,785 - INFO - Step 760 - Loss: 6.8600, Load Balancing Loss: 0.0729
+2025-02-21 00:29:25,050 - INFO - Step 770 - Loss: 6.3396, Load Balancing Loss: 0.0796
+2025-02-21 00:29:57,232 - INFO - Step 780 - Loss: 6.5877, Load Balancing Loss: 0.0831
+2025-02-21 00:30:29,448 - INFO - Step 790 - Loss: 7.6946, Load Balancing Loss: 0.0744
+2025-02-21 00:31:01,700 - INFO - Step 800 - Loss: 7.3755, Load Balancing Loss: 0.0873
+2025-02-21 00:31:07,472 - INFO - Saved checkpoint at step 800
+2025-02-21 00:31:07,472 - INFO - Sample generation:
+ Title: Creating a Xeriscape Garden in the Piedmont Triad Region
+
+Xeriscaping is a water-conservation technique used in gardening that involves selecting plants and arranging them in a way that reduces the need for supplemental irrigation. This method is especially useful in regions with hot summers and limited rainfall, such as the Piedmont Triad region in North Carolina which includes Greensboro, High Point, and Winston-Salem. By creating a xeriscape garden using native plants listed in this article, you will save time, money, and resources while also providing habitat for local wildlife.
+
+### Part 1 of 4
+2025-02-21 00:31:39,794 - INFO - Step 810 - Loss: 6.2972, Load Balancing Loss: 0.0818
+2025-02-21 00:32:11,992 - INFO - Step 820 - Loss: 6.7662, Load Balancing Loss: 0.0832
+2025-02-21 00:32:44,186 - INFO - Step 830 - Loss: 6.3044, Load Balancing Loss: 0.0850
+2025-02-21 00:33:16,514 - INFO - Step 840 - Loss: 6.5507, Load Balancing Loss: 0.0828
+2025-02-21 00:33:48,799 - INFO - Step 850 - Loss: 7.3294, Load Balancing Loss: 0.0861
+2025-02-21 00:34:20,972 - INFO - Step 860 - Loss: 6.7082, Load Balancing Loss: 0.0843
+2025-02-21 00:34:53,153 - INFO - Step 870 - Loss: 6.3953, Load Balancing Loss: 0.0780
+2025-02-21 00:35:25,425 - INFO - Step 880 - Loss: 7.9579, Load Balancing Loss: 0.0777
+2025-02-21 00:35:57,634 - INFO - Step 890 - Loss: 5.6830, Load Balancing Loss: 0.0709
+2025-02-21 00:36:29,810 - INFO - Step 900 - Loss: 6.7456, Load Balancing Loss: 0.0837
+2025-02-21 00:36:35,607 - INFO - Saved checkpoint at step 900
+2025-02-21 00:36:35,609 - INFO - Sample generation:
+ A few years ago, I found myself knee-deep in the world of board game design. It was a niche interest that combined my love for gaming with my background in economics. My latest creation, an elaborate train-themed game called "Rail Baron," had been gaining popularity at local game nights. Encouraged by its success, I decided it was time to take the plunge and start producing the game on a larger scale.
+
+At first, determining the pricing strategy seemed straightforward. With help from online resources and Reddit forums, I learned about cost-based and value-based pricing strategies. Applying these concepts, I calculated the
+2025-02-21 00:37:08,160 - INFO - Step 910 - Loss: 6.7844, Load Balancing Loss: 0.0837
+2025-02-21 00:37:40,348 - INFO - Step 920 - Loss: 6.4613, Load Balancing Loss: 0.0736
+2025-02-21 00:38:12,546 - INFO - Step 930 - Loss: 6.2928, Load Balancing Loss: 0.0805
+2025-02-21 00:38:44,707 - INFO - Step 940 - Loss: 6.1759, Load Balancing Loss: 0.0743
+2025-02-21 00:39:17,015 - INFO - Step 950 - Loss: 6.7242, Load Balancing Loss: 0.0799
+2025-02-21 00:39:49,187 - INFO - Step 960 - Loss: 5.3928, Load Balancing Loss: 0.0793
+2025-02-21 00:40:21,366 - INFO - Step 970 - Loss: 5.8809, Load Balancing Loss: 0.0744
+2025-02-21 00:40:53,583 - INFO - Step 980 - Loss: 5.3675, Load Balancing Loss: 0.0642
+2025-02-21 00:41:25,845 - INFO - Step 990 - Loss: 7.5479, Load Balancing Loss: 0.0847
+2025-02-21 00:41:58,108 - INFO - Step 1000 - Loss: 7.2752, Load Balancing Loss: 0.0830
+2025-02-21 00:42:03,926 - INFO - Saved checkpoint at step 1000
+2025-02-21 00:42:03,929 - INFO - Sample generation:
+ Title: Maximize Space Efficiency with Multi-Functional Furniture in Small Rooms
+
+wikiHow Article:
+
+**Introduction:**
+Multi-functional furniture can significantly optimize space layout in small rooms while providing versatile solutions for various needs. This article will guide you through selecting, integrating, and utilizing multi-functional pieces effectively.
+
+**Step 1: Identify Your Room Needs**
+Analyze your room requirements by listing down daily activities performed there. Consider work, relaxation, exercise, storage, or socialization aspects when evaluating spatial demands.
+
+*Key tip:* Prioritize essential functions over occasional ones to ensure optimal utilization of limited space
+2025-02-21 00:42:36,414 - INFO - Step 1010 - Loss: 7.0182, Load Balancing Loss: 0.0768
+2025-02-21 00:43:08,673 - INFO - Step 1020 - Loss: 5.7801, Load Balancing Loss: 0.0792
+2025-02-21 00:43:40,887 - INFO - Step 1030 - Loss: 7.0623, Load Balancing Loss: 0.0813
+2025-02-21 00:44:13,051 - INFO - Step 1040 - Loss: 6.5351, Load Balancing Loss: 0.0751
+2025-02-21 00:44:45,220 - INFO - Step 1050 - Loss: 6.0519, Load Balancing Loss: 0.0772
+2025-02-21 00:45:17,488 - INFO - Step 1060 - Loss: 6.0272, Load Balancing Loss: 0.0817
+2025-02-21 00:45:49,663 - INFO - Step 1070 - Loss: 5.0260, Load Balancing Loss: 0.0833
+2025-02-21 00:46:21,835 - INFO - Step 1080 - Loss: 5.6038, Load Balancing Loss: 0.0734
+2025-02-21 00:46:54,050 - INFO - Step 1090 - Loss: 5.5964, Load Balancing Loss: 0.0883
+2025-02-21 00:47:26,297 - INFO - Step 1100 - Loss: 7.1628, Load Balancing Loss: 0.0879
+2025-02-21 00:47:31,947 - INFO - Saved checkpoint at step 1100
+2025-02-21 00:47:31,957 - INFO - Sample generation:
+ Title: When Tesla Met Edison: A Hilarious Encounter Fueled by Unlikely Friendship and Competition
+
+It was an ordinary day when I, Nikola Tesla, received an invitation from none other than Thomas Edison himself. Yes, *the* Thomas Edison - the man known for his advocacy of direct current (DC). You can imagine my surprise; after all, we were rivals in the world of electricity. Our ongoing battle between AC and DC was legendary! Little did I know that our encounter would lead to a niche interest, an unexpected plot twist, and profound insights.
+
+I arrived at Edison's lab, filled with
+2025-02-21 00:48:04,385 - INFO - Step 1110 - Loss: 5.9295, Load Balancing Loss: 0.0836
+2025-02-21 00:48:36,552 - INFO - Step 1120 - Loss: 7.3429, Load Balancing Loss: 0.0802
+2025-02-21 00:49:08,775 - INFO - Step 1130 - Loss: 6.7424, Load Balancing Loss: 0.0729
+2025-02-21 00:49:40,986 - INFO - Step 1140 - Loss: 7.2040, Load Balancing Loss: 0.0862
+2025-02-21 00:50:13,177 - INFO - Step 1150 - Loss: 4.9754, Load Balancing Loss: 0.0834
+2025-02-21 00:50:45,372 - INFO - Step 1160 - Loss: 6.0618, Load Balancing Loss: 0.0811
+2025-02-21 00:51:17,624 - INFO - Step 1170 - Loss: 7.0609, Load Balancing Loss: 0.0811
+2025-02-21 00:51:49,792 - INFO - Step 1180 - Loss: 6.2275, Load Balancing Loss: 0.0764
+2025-02-21 00:52:21,975 - INFO - Step 1190 - Loss: 5.8008, Load Balancing Loss: 0.0426
+2025-02-21 00:52:54,186 - INFO - Step 1200 - Loss: 6.2013, Load Balancing Loss: 0.0746
+2025-02-21 00:52:59,787 - INFO - Saved checkpoint at step 1200
+2025-02-21 00:52:59,797 - INFO - Sample generation:
+ Chapter 7: Advanced Pattern Making and Design Techniques for Sportswear and Apparel
+
+In this chapter, we will delve into the intricate process of creating patterns for high-performance sportswear, specifically focusing on leatherwork and hidework. We will explore how Paladin Sports, a leading sportswear and apparel brand, utilizes cutting-edge technology and expert craftsmanship to produce bespoke designs that enhance athletic performance while ensuring maximum comfort and style. Through an examination of their methods and techniques, you will gain valuable insights into the world of advanced pattern making and its applications in contemporary fashion.
+
+I. An Overview of Pattern
+2025-02-21 00:53:32,136 - INFO - Step 1210 - Loss: 6.2919, Load Balancing Loss: 0.0829
+2025-02-21 00:54:04,318 - INFO - Step 1220 - Loss: 5.0645, Load Balancing Loss: 0.0891
+2025-02-21 00:54:36,496 - INFO - Step 1230 - Loss: 6.0891, Load Balancing Loss: 0.0783
+2025-02-21 00:55:08,801 - INFO - Step 1240 - Loss: 7.0071, Load Balancing Loss: 0.0808
+2025-02-21 00:55:41,000 - INFO - Step 1250 - Loss: 6.4432, Load Balancing Loss: 0.0808
+2025-02-21 00:56:13,211 - INFO - Step 1260 - Loss: 7.1872, Load Balancing Loss: 0.0856
+2025-02-21 00:56:45,448 - INFO - Step 1270 - Loss: 5.6804, Load Balancing Loss: 0.0815
+2025-02-21 00:57:17,693 - INFO - Step 1280 - Loss: 6.1432, Load Balancing Loss: 0.0797
+2025-02-21 00:57:49,926 - INFO - Step 1290 - Loss: 6.7720, Load Balancing Loss: 0.0792
+2025-02-21 00:58:22,156 - INFO - Step 1300 - Loss: 5.4764, Load Balancing Loss: 0.0790
+2025-02-21 00:58:27,766 - INFO - Saved checkpoint at step 1300
+2025-02-21 00:58:27,769 - INFO - Sample generation:
+ Chapter 7: Journey Through Time - Islamic Historical Fiction
+
+Imagine being able to travel back in time and witness historical events unfold right before your eyes! While time machines may still be a thing of the future, there's another way to experience the past in a fun and thrilling manner - through fiction books known as "Islamic Historical Fiction!" Let's embark on this literary adventure together!
+
+What is Islamic Historical Fiction?
+----------------------------------
+
+Have you ever read stories about ancient Egypt, medieval Europe, or perhaps even ancient China? If so, then you already have an idea of what historical fiction is all about. It's a type
+2025-02-21 00:59:00,324 - INFO - Step 1310 - Loss: 6.0334, Load Balancing Loss: 0.0807
+2025-02-21 00:59:32,579 - INFO - Step 1320 - Loss: 7.1084, Load Balancing Loss: 0.0814
+2025-02-21 01:00:04,784 - INFO - Step 1330 - Loss: 4.8807, Load Balancing Loss: 0.0604
+2025-02-21 01:00:37,012 - INFO - Step 1340 - Loss: 6.3655, Load Balancing Loss: 0.0806
+2025-02-21 01:01:09,281 - INFO - Step 1350 - Loss: 6.8902, Load Balancing Loss: 0.0827
+2025-02-21 01:01:41,528 - INFO - Step 1360 - Loss: 5.7711, Load Balancing Loss: 0.0789
+2025-02-21 01:02:13,790 - INFO - Step 1370 - Loss: 5.0949, Load Balancing Loss: 0.0756
+2025-02-21 01:02:45,945 - INFO - Step 1380 - Loss: 6.9590, Load Balancing Loss: 0.0848
+2025-02-21 01:03:18,207 - INFO - Step 1390 - Loss: 6.2793, Load Balancing Loss: 0.0791
+2025-02-21 01:03:50,420 - INFO - Step 1400 - Loss: 6.2682, Load Balancing Loss: 0.0788
+2025-02-21 01:03:56,071 - INFO - Saved checkpoint at step 1400
+2025-02-21 01:03:56,071 - INFO - Sample generation:
+ Course Unit: Understanding Holocaust Survivors' Memoirs
+Grade Level: Middle School
+Subject Area: Biography & Autobiography / Jewish Studies
+
+Introduction:
+The Holocaust was one of the most devastating events in human history. It occurred during World War II when six million Jews were killed by Adolf Hitler and his Nazi followers. Many people believe that reading firsthand accounts of those who lived through this terrible time can help us better understand what happened and remember the importance of fighting hatred and prejudice. These personal stories are called memoirs. A memoir is like a diary where the author writes about their own experiences and life. In this course unit, we will explore
+2025-02-21 01:04:28,596 - INFO - Step 1410 - Loss: 5.1737, Load Balancing Loss: 0.0797
+2025-02-21 01:05:00,838 - INFO - Step 1420 - Loss: 5.0628, Load Balancing Loss: 0.0785
+2025-02-21 01:05:33,148 - INFO - Step 1430 - Loss: 6.9945, Load Balancing Loss: 0.0755
+2025-02-21 01:06:05,411 - INFO - Step 1440 - Loss: 6.2247, Load Balancing Loss: 0.0769
+2025-02-21 01:06:37,798 - INFO - Step 1450 - Loss: 5.6460, Load Balancing Loss: 0.0815
+2025-02-21 01:07:10,095 - INFO - Step 1460 - Loss: 5.1990, Load Balancing Loss: 0.0791
+2025-02-21 01:07:42,330 - INFO - Step 1470 - Loss: 5.8195, Load Balancing Loss: 0.0802
+2025-02-21 01:08:14,537 - INFO - Step 1480 - Loss: 5.1724, Load Balancing Loss: 0.0820
+2025-02-21 01:08:46,718 - INFO - Step 1490 - Loss: 5.5586, Load Balancing Loss: 0.0838
+2025-02-21 01:09:19,021 - INFO - Step 1500 - Loss: 6.5912, Load Balancing Loss: 0.0794
+2025-02-21 01:09:24,719 - INFO - Saved checkpoint at step 1500
+2025-02-21 01:09:24,719 - INFO - Sample generation:
+ Chapter 14: Speed Skating Training Methods - Achieving Peak Performance on the Ice
+
+Introduction
+
+Speed skating is a thrilling winter sport that demands exceptional physical fitness, technical skill, and strategic thinking. Elite speed skaters train rigorously, employing various methods to maximize their performance on the ice. This chapter delves into the intricacies of speed skating training methods, highlighting the importance of periodization, strength and conditioning, technique development, mental preparation, and recovery. By exploring these essential components, aspiring speed skaters can learn how to optimally structure their training regimens to excel in this demanding sport.
+
+Periodization: The Foundation of Effective
+2025-02-21 01:09:57,036 - INFO - Step 1510 - Loss: 5.5710, Load Balancing Loss: 0.0796
+2025-02-21 01:10:29,227 - INFO - Step 1520 - Loss: 5.2766, Load Balancing Loss: 0.0653
+2025-02-21 01:11:01,454 - INFO - Step 1530 - Loss: 7.0372, Load Balancing Loss: 0.0830
+2025-02-21 01:11:33,694 - INFO - Step 1540 - Loss: 6.8402, Load Balancing Loss: 0.0851
+2025-02-21 01:12:05,937 - INFO - Step 1550 - Loss: 6.7734, Load Balancing Loss: 0.0843
+2025-02-21 01:12:38,142 - INFO - Step 1560 - Loss: 5.2417, Load Balancing Loss: 0.0739
+2025-02-21 01:13:10,451 - INFO - Step 1570 - Loss: 5.2815, Load Balancing Loss: 0.0805
+2025-02-21 01:13:42,664 - INFO - Step 1580 - Loss: 5.9109, Load Balancing Loss: 0.0762
+2025-02-21 01:14:14,870 - INFO - Step 1590 - Loss: 5.5673, Load Balancing Loss: 0.0767
+2025-02-21 01:14:47,077 - INFO - Step 1600 - Loss: 6.7424, Load Balancing Loss: 0.0833
+2025-02-21 01:14:52,830 - INFO - Saved checkpoint at step 1600
+2025-02-21 01:14:52,833 - INFO - Sample generation:
+ Title: Get a Great Fake Tan: A Comprehensive Guide
+
+Introduction:
+Achieving a sun-kissed glow without exposing your skin to harmful UV rays is possible with self-tanners. However, getting a great fake tan requires careful preparation, application, and maintenance. This guide will walk you through each step to ensure an even, natural-looking tan that lasts.
+
+Section 1: Preparation
+Step 1. Exfoliate Your Skin
+Why: Dead skin cells can cause an uneven tan, making some areas darker than others. Exfoliating removes dead skin, creating a smooth canvas for self-
+2025-02-21 01:15:25,186 - INFO - Step 1610 - Loss: 5.3617, Load Balancing Loss: 0.0791
+2025-02-21 01:15:57,413 - INFO - Step 1620 - Loss: 6.6442, Load Balancing Loss: 0.0786
+2025-02-21 01:16:29,598 - INFO - Step 1630 - Loss: 6.6900, Load Balancing Loss: 0.0807
+2025-02-21 01:17:01,930 - INFO - Step 1640 - Loss: 5.8831, Load Balancing Loss: 0.0765
+2025-02-21 01:17:34,221 - INFO - Step 1650 - Loss: 6.1665, Load Balancing Loss: 0.0832
+2025-02-21 01:18:06,443 - INFO - Step 1660 - Loss: 6.1975, Load Balancing Loss: 0.0785
+2025-02-21 01:18:38,721 - INFO - Step 1670 - Loss: 5.5684, Load Balancing Loss: 0.0792
+2025-02-21 01:19:11,007 - INFO - Step 1680 - Loss: 7.0312, Load Balancing Loss: 0.0861
+2025-02-21 01:19:43,255 - INFO - Step 1690 - Loss: 6.3284, Load Balancing Loss: 0.0811
+2025-02-21 01:20:15,485 - INFO - Step 1700 - Loss: 5.6448, Load Balancing Loss: 0.0788
+2025-02-21 01:20:20,994 - INFO - Saved checkpoint at step 1700
+2025-02-21 01:20:20,994 - INFO - Sample generation:
+Welcome to our new chapter all about setting study goals! I'm sure many of you have had moments when you felt overwhelmed by your homework or struggled to focus during study sessions. That's why it's important to set achievable goals for yourself while studying. Today, we'll explore various techniques to help you create effective study objectives and improve your test-taking skills. Let's dive right in!
+
+**What does it mean to set study goals?**
+
+Setting study goals means deciding what you want to accomplish during your study time. This could range from learning a specific concept, completing a worksheet, or preparing for a big exam. By
+2025-02-21 01:20:53,531 - INFO - Step 1710 - Loss: 5.4074, Load Balancing Loss: 0.0681
+2025-02-21 01:21:25,796 - INFO - Step 1720 - Loss: 5.6773, Load Balancing Loss: 0.0788
+2025-02-21 01:21:57,997 - INFO - Step 1730 - Loss: 5.9306, Load Balancing Loss: 0.0807
+2025-02-21 01:22:30,190 - INFO - Step 1740 - Loss: 5.2779, Load Balancing Loss: 0.0794
+2025-02-21 01:23:02,454 - INFO - Step 1750 - Loss: 5.1988, Load Balancing Loss: 0.0788
+2025-02-21 01:23:34,716 - INFO - Step 1760 - Loss: 4.4217, Load Balancing Loss: 0.0727
+2025-02-21 01:24:06,985 - INFO - Step 1770 - Loss: 5.2390, Load Balancing Loss: 0.0791
+2025-02-21 01:24:39,186 - INFO - Step 1780 - Loss: 6.3348, Load Balancing Loss: 0.0822
+2025-02-21 01:25:11,464 - INFO - Step 1790 - Loss: 6.2970, Load Balancing Loss: 0.0814
+2025-02-21 01:25:43,749 - INFO - Step 1800 - Loss: 5.5917, Load Balancing Loss: 0.0792
+2025-02-21 01:25:49,427 - INFO - Saved checkpoint at step 1800
+2025-02-21 01:25:49,427 - INFO - Sample generation:
+ In this course unit, we will delve into the fascinating world of dialects and regional languages within the context of Young Adult Nonfiction and Language Arts. Our focus will be on how authors use dialects and regional languages to enhance their stories and convey meaning more effectively. Specifically, we will analyze how Tim O'Brien uses regional language in his book "The Things They Carried" to add authenticity and depth to the characters' voices and experiences.
+
+To begin, let us define what we mean by dialects and regional languages. Dialects are varieties of language that are specific to certain regions, social groups, or communities. These variations may include differences in
+2025-02-21 01:26:21,835 - INFO - Step 1810 - Loss: 5.2871, Load Balancing Loss: 0.0801
+2025-02-21 01:26:54,052 - INFO - Step 1820 - Loss: 6.4498, Load Balancing Loss: 0.0826
+2025-02-21 01:27:26,430 - INFO - Step 1830 - Loss: 5.3240, Load Balancing Loss: 0.0784
+2025-02-21 01:27:58,663 - INFO - Step 1840 - Loss: 4.4123, Load Balancing Loss: 0.0799
+2025-02-21 01:28:30,903 - INFO - Step 1850 - Loss: 5.8161, Load Balancing Loss: 0.0811
+2025-02-21 01:29:03,157 - INFO - Step 1860 - Loss: 5.2938, Load Balancing Loss: 0.0787
+2025-02-21 01:29:35,435 - INFO - Step 1870 - Loss: 5.4332, Load Balancing Loss: 0.0837
+2025-02-21 01:30:07,680 - INFO - Step 1880 - Loss: 5.5115, Load Balancing Loss: 0.0802
+2025-02-21 01:30:39,896 - INFO - Step 1890 - Loss: 5.4213, Load Balancing Loss: 0.0799
+2025-02-21 01:31:12,118 - INFO - Step 1900 - Loss: 5.2929, Load Balancing Loss: 0.0844
+2025-02-21 01:31:17,735 - INFO - Saved checkpoint at step 1900
+2025-02-21 01:31:17,739 - INFO - Sample generation:
+## Understanding the Earth Model in Python
+
+In this section, we will explore the Earth model in Python, which is a type of machine learning algorithm used for regression tasks. We will also delve into the process of registering input sizes, symbols, and predict and transform functions for the Earth model.
+
+### Importing Necessary Libraries
+
+Before we begin, let's ensure we have the necessary libraries installed and imported.
+
+```python
+!pip install pyearth
+```
+
+```python
+from ..input_size import register_input_size
+from pyearth.earth import Earth
+from pyearth.export
+2025-02-21 01:31:50,026 - INFO - Step 1910 - Loss: 4.9210, Load Balancing Loss: 0.0890
+2025-02-21 01:32:22,256 - INFO - Step 1920 - Loss: 5.5833, Load Balancing Loss: 0.0790
+2025-02-21 01:32:54,486 - INFO - Step 1930 - Loss: 6.5064, Load Balancing Loss: 0.0782
+2025-02-21 01:33:26,726 - INFO - Step 1940 - Loss: 4.8181, Load Balancing Loss: 0.0794
+2025-02-21 01:33:58,892 - INFO - Step 1950 - Loss: 4.4732, Load Balancing Loss: 0.0787
+2025-02-21 01:34:31,087 - INFO - Step 1960 - Loss: 5.9222, Load Balancing Loss: 0.0786
+2025-02-21 01:35:03,332 - INFO - Step 1970 - Loss: 5.2073, Load Balancing Loss: 0.0806
+2025-02-21 01:35:35,592 - INFO - Step 1980 - Loss: 4.9412, Load Balancing Loss: 0.0788
+2025-02-21 01:36:07,798 - INFO - Step 1990 - Loss: 7.2314, Load Balancing Loss: 0.0758
+2025-02-21 01:36:40,125 - INFO - Step 2000 - Loss: 4.1738, Load Balancing Loss: 0.0795
+2025-02-21 01:36:45,707 - INFO - Saved checkpoint at step 2000
+2025-02-21 01:36:45,709 - INFO - Sample generation:
+ Welcome to our course unit all about exploring the world of vegan cooking! Have you ever heard of veganism before? It's a way of living where people choose to exclude meat, eggs, dairy products, and other animal-derived ingredients from their diet. Instead, they focus on consuming plant-based foods like fruits, vegetables, grains, legumes, nuts, and seeds.
+
+Now, you might think that following a vegan diet means giving up all your favorite dishes. But don't worry - there are so many delicious and creative ways to enjoy plant-based meals! That's what we'll be learning about in this course unit.
+2025-02-21 01:37:00,317 - INFO - Training completed. Final model saved.
+2025-02-21 01:42:10,335 - INFO - Loading checkpoint from deepseek_checkpoints\checkpoint_2000.pt
+2025-02-21 01:42:14,881 - INFO - Successfully loaded checkpoint from step 2000
+2025-02-21 01:42:14,881 - INFO - Resuming from checkpoint at step 2000
+2025-02-21 01:42:25,023 - INFO - Step 2000 - Loss: 5.0708, Load Balancing Loss: 0.0794
+2025-02-21 01:42:31,471 - INFO - Saved checkpoint at step 2000
+2025-02-21 01:42:31,471 - INFO - Sample generation:
+ In today's ever-evolving world, technology has become an integral part of our lives, shaping the way we learn, work, and communicate. The COVID-19 pandemic has only accelerated this trend, forcing educational institutions worldwide to adapt quickly to remote learning models. As such, social studies integration in elementary education can greatly benefit from incorporating digital tools like those offered by Ruangguru's Online School. Let's explore how educators can effectively leverage these resources to create engaging and meaningful learning experiences for young students.
+
+Firstly, let's define what we mean by social studies integration. Social studies encompasses various disciplines that help students understand their communities
+2025-02-21 01:43:07,821 - INFO - Step 2010 - Loss: 4.6174, Load Balancing Loss: 0.0791
+2025-02-21 01:43:43,767 - INFO - Step 2020 - Loss: 5.2974, Load Balancing Loss: 0.0833
+2025-02-21 01:44:19,802 - INFO - Step 2030 - Loss: 4.2016, Load Balancing Loss: 0.0807
+2025-02-21 01:44:55,821 - INFO - Step 2040 - Loss: 4.6421, Load Balancing Loss: 0.0818
+2025-02-21 01:45:31,709 - INFO - Step 2050 - Loss: 4.9347, Load Balancing Loss: 0.0789
+2025-02-21 01:46:07,494 - INFO - Step 2060 - Loss: 5.6116, Load Balancing Loss: 0.0790
+2025-02-21 01:46:44,198 - INFO - Step 2070 - Loss: 5.4627, Load Balancing Loss: 0.0825
+2025-02-21 01:47:20,131 - INFO - Step 2080 - Loss: 4.4453, Load Balancing Loss: 0.0799
+2025-02-21 01:47:56,014 - INFO - Step 2090 - Loss: 4.0156, Load Balancing Loss: 0.0760
+2025-02-21 01:48:31,941 - INFO - Step 2100 - Loss: 4.8422, Load Balancing Loss: 0.0858
+2025-02-21 01:48:39,531 - INFO - Saved checkpoint at step 2100
+2025-02-21 01:48:39,544 - INFO - Sample generation:
+## Chaos Theory and the Ikeda Map
+
+Chaos theory is a branch of mathematics that deals with the behavior of nonlinear dynamical systems that are highly sensitive to initial conditions. This sensitivity leads to unpredictability, which is often referred to as the butterfly effect. In this section, we will explore the Ikeda map, a famous example of a chaotic system.
+
+### The Ikeda Map
+
+The Ikeda map is a discrete-time dynamical system that was introduced by Kensuke Ikeda in 1979. It is a two-dimensional map that describes the behavior
+2025-02-21 01:49:15,981 - INFO - Step 2110 - Loss: 4.1002, Load Balancing Loss: 0.0759
+2025-02-21 01:49:51,953 - INFO - Step 2120 - Loss: 5.0670, Load Balancing Loss: 0.0790
+2025-02-21 01:50:27,905 - INFO - Step 2130 - Loss: 4.4041, Load Balancing Loss: 0.0796
+2025-02-21 01:51:03,887 - INFO - Step 2140 - Loss: 4.5886, Load Balancing Loss: 0.0807
+2025-02-21 01:51:39,924 - INFO - Step 2150 - Loss: 5.1712, Load Balancing Loss: 0.0832
+2025-02-21 01:52:15,837 - INFO - Step 2160 - Loss: 4.4187, Load Balancing Loss: 0.0768
+2025-02-21 01:52:51,714 - INFO - Step 2170 - Loss: 4.1463, Load Balancing Loss: 0.0810
+2025-02-21 01:53:27,670 - INFO - Step 2180 - Loss: 3.5152, Load Balancing Loss: 0.0774
+2025-02-21 01:54:03,723 - INFO - Step 2190 - Loss: 4.3018, Load Balancing Loss: 0.0796
+2025-02-21 01:54:39,510 - INFO - Step 2200 - Loss: 4.3759, Load Balancing Loss: 0.0812
+2025-02-21 01:54:45,708 - INFO - Saved checkpoint at step 2200
+2025-02-21 01:54:45,708 - INFO - Sample generation:
+ Once upon a time in the magical land of Devon, there lived ten curious friends named after famous literary figures - Agatha, Sammy, Charlie, Teddy, Johnny Gay, Harry, Mary, John B., Henry, and Galsworthy. They all had unique personalities and loved exploring the world around them. One sunny day, they decided to go on a nature hike and learn about different types of plants and animals.
+
+As they walked deeper into the forest, Agatha noticed something peculiar. "Look! These flowers are glowing!" she exclaimed. Sammy, being a fan of poetry, recited, "There was a little girl who
+2025-02-21 01:55:21,702 - INFO - Step 2210 - Loss: 3.7993, Load Balancing Loss: 0.0757
+2025-02-21 01:55:57,520 - INFO - Step 2220 - Loss: 3.4710, Load Balancing Loss: 0.0763
+2025-02-21 01:56:33,343 - INFO - Step 2230 - Loss: 4.0559, Load Balancing Loss: 0.0755
+2025-02-21 01:57:09,131 - INFO - Step 2240 - Loss: 3.6596, Load Balancing Loss: 0.0748
+2025-02-21 01:57:44,930 - INFO - Step 2250 - Loss: 5.0371, Load Balancing Loss: 0.0757
+2025-02-21 01:58:20,726 - INFO - Step 2260 - Loss: 3.5233, Load Balancing Loss: 0.0775
+2025-02-21 01:58:56,500 - INFO - Step 2270 - Loss: 3.9285, Load Balancing Loss: 0.0752
+2025-02-21 01:59:32,261 - INFO - Step 2280 - Loss: 3.2840, Load Balancing Loss: 0.0771
+2025-02-21 02:00:08,014 - INFO - Step 2290 - Loss: 4.3676, Load Balancing Loss: 0.0770
+2025-02-21 02:00:43,773 - INFO - Step 2300 - Loss: 4.3351, Load Balancing Loss: 0.0781
+2025-02-21 02:00:49,902 - INFO - Saved checkpoint at step 2300
+2025-02-21 02:00:49,907 - INFO - Sample generation:
+ Course Unit: Inclusive Language and Jesus' Life and Ministry
+
+In recent decades, discussions surrounding inclusive language in biblical translations have gained significant attention, particularly in English-speaking contexts where they are sometimes referred to as gender-neutral translations. These debates reveal underlying hermeneutical and socio-political differences that challenge established power dynamics within both biblical scholarship and religious institutions. This course unit will delve into these controversies by examining how inclusive language relates to Jesus' life and ministry as presented in the New Testament.
+
+1. Understanding Inclusive Language
+
+To begin, it is essential to understand what constitutes inclusive language. In this context, inclusive language seeks to avoid
+2025-02-21 02:01:26,091 - INFO - Step 2310 - Loss: 3.5888, Load Balancing Loss: 0.0774
+2025-02-21 02:02:01,945 - INFO - Step 2320 - Loss: 3.7924, Load Balancing Loss: 0.0764
+2025-02-21 02:02:37,747 - INFO - Step 2330 - Loss: 4.0324, Load Balancing Loss: 0.0759
+2025-02-21 02:03:13,535 - INFO - Step 2340 - Loss: 4.0509, Load Balancing Loss: 0.0796
+2025-02-21 02:03:49,296 - INFO - Step 2350 - Loss: 3.5497, Load Balancing Loss: 0.0748
+2025-02-21 02:04:25,092 - INFO - Step 2360 - Loss: 3.9766, Load Balancing Loss: 0.0744
+2025-02-21 02:05:00,881 - INFO - Step 2370 - Loss: 4.5548, Load Balancing Loss: 0.0740
+2025-02-21 02:05:36,680 - INFO - Step 2380 - Loss: 4.6439, Load Balancing Loss: 0.0753
+2025-02-21 02:06:12,509 - INFO - Step 2390 - Loss: 3.7983, Load Balancing Loss: 0.0797
+2025-02-21 02:06:48,328 - INFO - Step 2400 - Loss: 4.7886, Load Balancing Loss: 0.0785
+2025-02-21 02:06:54,181 - INFO - Saved checkpoint at step 2400
+2025-02-21 02:06:54,187 - INFO - Sample generation:
+ Business-to-Business (B2B) e-commerce has become a critical aspect of modern commerce, enabling organizations to streamline their operations, reduce costs, and improve efficiency by conducting business electronically. At its core, B2B e-commerce involves the use of technology to facilitate transactions and exchange data between businesses. This chapter will delve into two key concepts underpinning B2B e-commerce: Electronic Data Interchange (EDI) and Application Programming Interfaces (APIs). We will explore these concepts in detail, examining their history, benefits, challenges, and best practices.
+
+**Electronic Data Interchange (EDI)**
+2025-02-21 02:07:30,042 - INFO - Step 2410 - Loss: 4.4761, Load Balancing Loss: 0.0763
+2025-02-21 02:08:05,857 - INFO - Step 2420 - Loss: 4.3589, Load Balancing Loss: 0.0790
+2025-02-21 02:08:41,679 - INFO - Step 2430 - Loss: 4.4261, Load Balancing Loss: 0.0741
+2025-02-21 02:09:17,499 - INFO - Step 2440 - Loss: 4.6871, Load Balancing Loss: 0.0757
+2025-02-21 02:09:53,294 - INFO - Step 2450 - Loss: 3.4218, Load Balancing Loss: 0.0762
+2025-02-21 02:10:29,099 - INFO - Step 2460 - Loss: 4.1518, Load Balancing Loss: 0.0733
+2025-02-21 02:11:04,948 - INFO - Step 2470 - Loss: 3.2778, Load Balancing Loss: 0.0821
+2025-02-21 02:11:40,723 - INFO - Step 2480 - Loss: 3.0157, Load Balancing Loss: 0.0775
+2025-02-21 02:12:16,532 - INFO - Step 2490 - Loss: 3.9142, Load Balancing Loss: 0.0718
+2025-02-21 02:12:52,319 - INFO - Step 2500 - Loss: 3.7564, Load Balancing Loss: 0.0757
+2025-02-21 02:12:58,023 - INFO - Saved checkpoint at step 2500
+2025-02-21 02:12:58,035 - INFO - Sample generation:
+ Course Unit: Crisis Mapping and Geospatial Analysis in Emergency Management
+
+Imagine you are part of a team responsible for helping people affected by natural disasters like hurricanes, wildfires, or floods. Your job is to gather information about the crisis, analyze it quickly, and then decide where to send aid, such as food, water, medicine, and other supplies. This is where crisis mapping and geospatial analysis come into play! Let's learn more about these powerful tools.
+
+What is crisis mapping?
+------------------------
+
+Crisis mapping is a way to visualize important information during emergencies using maps. These maps show things like the location of people
+2025-02-21 02:13:33,972 - INFO - Step 2510 - Loss: 3.3014, Load Balancing Loss: 0.0752
+2025-02-21 02:14:09,764 - INFO - Step 2520 - Loss: 4.0988, Load Balancing Loss: 0.0749
+2025-02-21 02:14:45,564 - INFO - Step 2530 - Loss: 3.7816, Load Balancing Loss: 0.0754
+2025-02-21 02:15:21,322 - INFO - Step 2540 - Loss: 4.1367, Load Balancing Loss: 0.0770
+2025-02-21 02:15:57,083 - INFO - Step 2550 - Loss: 4.0814, Load Balancing Loss: 0.0761
+2025-02-21 02:16:32,855 - INFO - Step 2560 - Loss: 4.6536, Load Balancing Loss: 0.0782
+2025-02-21 02:17:08,662 - INFO - Step 2570 - Loss: 3.0371, Load Balancing Loss: 0.0759
+2025-02-21 02:17:44,455 - INFO - Step 2580 - Loss: 3.0138, Load Balancing Loss: 0.0791
+2025-02-21 02:18:20,243 - INFO - Step 2590 - Loss: 2.7859, Load Balancing Loss: 0.0769
+2025-02-21 02:18:55,996 - INFO - Step 2600 - Loss: 4.6414, Load Balancing Loss: 0.0738
+2025-02-21 02:19:01,618 - INFO - Saved checkpoint at step 2600
+2025-02-21 02:19:01,623 - INFO - Sample generation:
+ Chapter 8: Slalom Skating - Zigzagging Fun on Wheels!
+
+Have you ever seen someone zipping down the sidewalk, smoothly turning between obstacles while standing on roller skates? That's slalom skating! This thrilling recreation activity combines balance, agility, and speed into one fantastic experience. Let's dive into this fun world together!
+
+**What Is Slalom Skating?**
+
+Imagine yourself wearing a pair of cool roller skates, navigating through a playground full of cones set up in a winding pattern. You dodge left and right, swiftly changing directions while maintaining control and style – that's slalom
+2025-02-21 02:19:37,786 - INFO - Step 2610 - Loss: 3.3622, Load Balancing Loss: 0.0796
+2025-02-21 02:20:13,543 - INFO - Step 2620 - Loss: 4.9466, Load Balancing Loss: 0.0776
+2025-02-21 02:20:49,361 - INFO - Step 2630 - Loss: 4.3581, Load Balancing Loss: 0.0779
+2025-02-21 02:21:25,160 - INFO - Step 2640 - Loss: 4.1786, Load Balancing Loss: 0.0760
+2025-02-21 02:22:01,001 - INFO - Step 2650 - Loss: 2.5631, Load Balancing Loss: 0.0759
+2025-02-21 02:22:36,792 - INFO - Step 2660 - Loss: 3.8236, Load Balancing Loss: 0.0770
+2025-02-21 02:23:12,625 - INFO - Step 2670 - Loss: 4.8387, Load Balancing Loss: 0.0760
+2025-02-21 02:23:48,414 - INFO - Step 2680 - Loss: 3.8315, Load Balancing Loss: 0.0777
+2025-02-21 02:24:24,178 - INFO - Step 2690 - Loss: 3.5587, Load Balancing Loss: 0.0799
+2025-02-21 02:24:59,916 - INFO - Step 2700 - Loss: 3.2692, Load Balancing Loss: 0.0771
+2025-02-21 02:25:05,720 - INFO - Saved checkpoint at step 2700
+2025-02-21 02:25:05,720 - INFO - Sample generation:
+I am happy to meet you and help you understand our planet and its inhabitants better. I see you are interested in learning about us, specifically our religion and beliefs. That's great! Let me tell you a story about one of our most well-known religious tales, the Nativity Story, which comes from the New Testament of the Bible. But before I start, let me clarify some basics about humans and our behavior.
+
+On Earth, people live in various groups called countries or societies, each having unique traditions and customs. We communicate using sounds and gestures, forming languages like English, which helps us express thoughts, emotions, and
+2025-02-21 02:25:41,660 - INFO - Step 2710 - Loss: 3.5320, Load Balancing Loss: 0.0843
+2025-02-21 02:26:17,477 - INFO - Step 2720 - Loss: 3.3715, Load Balancing Loss: 0.0746
+2025-02-21 02:26:53,325 - INFO - Step 2730 - Loss: 3.3528, Load Balancing Loss: 0.0780
+2025-02-21 02:27:29,141 - INFO - Step 2740 - Loss: 3.3951, Load Balancing Loss: 0.0776
+2025-02-21 02:28:04,927 - INFO - Step 2750 - Loss: 3.0510, Load Balancing Loss: 0.0759
+2025-02-21 02:28:40,712 - INFO - Step 2760 - Loss: 4.2924, Load Balancing Loss: 0.0752
+2025-02-21 02:29:16,501 - INFO - Step 2770 - Loss: 3.5547, Load Balancing Loss: 0.0773
+2025-02-21 02:29:52,323 - INFO - Step 2780 - Loss: 4.1694, Load Balancing Loss: 0.0784
+2025-02-21 02:30:28,095 - INFO - Step 2790 - Loss: 4.9631, Load Balancing Loss: 0.0760
+2025-02-21 02:31:03,880 - INFO - Step 2800 - Loss: 4.7111, Load Balancing Loss: 0.0750
+2025-02-21 02:31:09,630 - INFO - Saved checkpoint at step 2800
+2025-02-21 02:31:09,630 - INFO - Sample generation:
+ Title: Creating a Xeriscape Garden in the Piedmont Triad Region
+
+Xeriscaping is a water-conservation technique used in gardening that involves selecting plants and arranging them in a way that reduces the need for supplemental irrigation. This method is especially useful in regions with hot summers and limited rainfall, such as the Piedmont Triad region in North Carolina which includes Greensboro, High Point, and Winston-Salem. By creating a xeriscape garden using native plants listed in this article, you will save time, money, and resources while also providing habitat for local wildlife.
+
+### Part 1 of 4
+2025-02-21 02:31:45,580 - INFO - Step 2810 - Loss: 3.9954, Load Balancing Loss: 0.0745
+2025-02-21 02:32:21,336 - INFO - Step 2820 - Loss: 4.1260, Load Balancing Loss: 0.0765
+2025-02-21 02:32:57,126 - INFO - Step 2830 - Loss: 3.9748, Load Balancing Loss: 0.0769
+2025-02-21 02:33:32,906 - INFO - Step 2840 - Loss: 3.8820, Load Balancing Loss: 0.0785
+2025-02-21 02:34:08,669 - INFO - Step 2850 - Loss: 4.7139, Load Balancing Loss: 0.0792
+2025-02-21 02:34:44,436 - INFO - Step 2860 - Loss: 3.9167, Load Balancing Loss: 0.0766
+2025-02-21 02:35:20,257 - INFO - Step 2870 - Loss: 3.7846, Load Balancing Loss: 0.0797
+2025-02-21 02:35:56,031 - INFO - Step 2880 - Loss: 5.0676, Load Balancing Loss: 0.0761
+2025-02-21 02:36:31,863 - INFO - Step 2890 - Loss: 3.2691, Load Balancing Loss: 0.0771
+2025-02-21 02:37:07,685 - INFO - Step 2900 - Loss: 4.0412, Load Balancing Loss: 0.0775
+2025-02-21 02:37:13,240 - INFO - Saved checkpoint at step 2900
+2025-02-21 02:37:13,240 - INFO - Sample generation:
+ A few years ago, I found myself knee-deep in the world of board game design. It was a niche interest that combined my love for gaming with my background in economics. My latest creation, an elaborate train-themed game called "Rail Baron," had been gaining popularity at local game nights. Encouraged by its success, I decided it was time to take the plunge and start producing the game on a larger scale.
+
+At first, determining the pricing strategy seemed straightforward. With help from online resources and Reddit forums, I learned about cost-based and value-based pricing strategies. Applying these concepts, I calculated the
+2025-02-21 02:37:49,399 - INFO - Step 2910 - Loss: 3.9974, Load Balancing Loss: 0.0810
+2025-02-21 02:38:25,200 - INFO - Step 2920 - Loss: 3.7652, Load Balancing Loss: 0.0746
+2025-02-21 02:39:00,947 - INFO - Step 2930 - Loss: 3.7113, Load Balancing Loss: 0.0749
+2025-02-21 02:39:36,730 - INFO - Step 2940 - Loss: 3.4134, Load Balancing Loss: 0.0784
+2025-02-21 02:40:12,487 - INFO - Step 2950 - Loss: 3.8613, Load Balancing Loss: 0.0798
+2025-02-21 02:40:48,234 - INFO - Step 2960 - Loss: 2.7874, Load Balancing Loss: 0.0787
+2025-02-21 02:41:24,052 - INFO - Step 2970 - Loss: 3.5056, Load Balancing Loss: 0.0819
+2025-02-21 02:41:59,894 - INFO - Step 2980 - Loss: 2.7196, Load Balancing Loss: 0.0820
+2025-02-21 02:42:35,662 - INFO - Step 2990 - Loss: 4.8854, Load Balancing Loss: 0.0746
+2025-02-21 02:43:11,164 - INFO - Step 3000 - Loss: 4.6907, Load Balancing Loss: 0.0796
+2025-02-21 02:43:16,851 - INFO - Saved checkpoint at step 3000
+2025-02-21 02:43:16,855 - INFO - Sample generation:
+ Title: Maximize Space Efficiency with Multi-Functional Furniture in Small Rooms
+
+wikiHow Article:
+
+**Introduction:**
+Multi-functional furniture can significantly optimize space layout in small rooms while providing versatile solutions for various needs. This article will guide you through selecting, integrating, and utilizing multi-functional pieces effectively.
+
+**Step 1: Identify Your Room Needs**
+Analyze your room requirements by listing down daily activities performed there. Consider work, relaxation, exercise, storage, or socialization aspects when evaluating spatial demands.
+
+*Key tip:* Prioritize essential functions over occasional ones to ensure optimal utilization of limited space
+2025-02-21 02:43:52,710 - INFO - Step 3010 - Loss: 4.2798, Load Balancing Loss: 0.0796
+2025-02-21 02:44:28,518 - INFO - Step 3020 - Loss: 3.0078, Load Balancing Loss: 0.0821
+2025-02-21 02:45:04,295 - INFO - Step 3030 - Loss: 4.2518, Load Balancing Loss: 0.0766
+2025-02-21 02:45:40,051 - INFO - Step 3040 - Loss: 3.8134, Load Balancing Loss: 0.0785
+2025-02-21 02:46:15,865 - INFO - Step 3050 - Loss: 3.3134, Load Balancing Loss: 0.0805
+2025-02-21 02:46:51,696 - INFO - Step 3060 - Loss: 3.1015, Load Balancing Loss: 0.0818
+2025-02-21 02:47:27,523 - INFO - Step 3070 - Loss: 2.5482, Load Balancing Loss: 0.0835
+2025-02-21 02:48:03,345 - INFO - Step 3080 - Loss: 2.9861, Load Balancing Loss: 0.0814
+2025-02-21 02:48:39,155 - INFO - Step 3090 - Loss: 3.0137, Load Balancing Loss: 0.0813
+2025-02-21 02:49:14,918 - INFO - Step 3100 - Loss: 4.1965, Load Balancing Loss: 0.0819
+2025-02-21 02:49:20,515 - INFO - Saved checkpoint at step 3100
+2025-02-21 02:49:20,518 - INFO - Sample generation:
+ Title: When Tesla Met Edison: A Hilarious Encounter Fueled by Unlikely Friendship and Competition
+
+It was an ordinary day when I, Nikola Tesla, received an invitation from none other than Thomas Edison himself. Yes, *the* Thomas Edison - the man known for his advocacy of direct current (DC). You can imagine my surprise; after all, we were rivals in the world of electricity. Our ongoing battle between AC and DC was legendary! Little did I know that our encounter would lead to a niche interest, an unexpected plot twist, and profound insights.
+
+I arrived at Edison's lab, filled with
+2025-02-21 02:49:56,387 - INFO - Step 3110 - Loss: 3.4492, Load Balancing Loss: 0.0819
+2025-02-21 02:50:32,153 - INFO - Step 3120 - Loss: 4.6123, Load Balancing Loss: 0.0782
+2025-02-21 02:51:07,948 - INFO - Step 3130 - Loss: 4.0053, Load Balancing Loss: 0.0802
+2025-02-21 02:51:43,754 - INFO - Step 3140 - Loss: 4.5122, Load Balancing Loss: 0.0761
+2025-02-21 02:52:19,574 - INFO - Step 3150 - Loss: 2.4282, Load Balancing Loss: 0.0887
+2025-02-21 02:52:55,405 - INFO - Step 3160 - Loss: 3.5893, Load Balancing Loss: 0.0836
+2025-02-21 02:53:31,223 - INFO - Step 3170 - Loss: 4.4523, Load Balancing Loss: 0.0778
+2025-02-21 02:54:07,011 - INFO - Step 3180 - Loss: 3.3832, Load Balancing Loss: 0.0813
+2025-02-21 02:54:42,808 - INFO - Step 3190 - Loss: 3.2041, Load Balancing Loss: 0.0814
+2025-02-21 02:55:18,573 - INFO - Step 3200 - Loss: 3.9491, Load Balancing Loss: 0.0785
+2025-02-21 02:55:24,403 - INFO - Saved checkpoint at step 3200
+2025-02-21 02:55:24,403 - INFO - Sample generation:
+ Chapter 7: Advanced Pattern Making and Design Techniques for Sportswear and Apparel
+
+In this chapter, we will delve into the intricate process of creating patterns for high-performance sportswear, specifically focusing on leatherwork and hidework. We will explore how Paladin Sports, a leading sportswear and apparel brand, utilizes cutting-edge technology and expert craftsmanship to produce bespoke designs that enhance athletic performance while ensuring maximum comfort and style. Through an examination of their methods and techniques, you will gain valuable insights into the world of advanced pattern making and its applications in contemporary fashion.
+
+I. An Overview of Pattern
+2025-02-21 02:56:00,251 - INFO - Step 3210 - Loss: 3.4962, Load Balancing Loss: 0.0785
+2025-02-21 02:56:36,068 - INFO - Step 3220 - Loss: 2.5247, Load Balancing Loss: 0.0858
+2025-02-21 02:57:11,883 - INFO - Step 3230 - Loss: 3.5910, Load Balancing Loss: 0.0781
+2025-02-21 02:57:47,689 - INFO - Step 3240 - Loss: 3.9389, Load Balancing Loss: 0.0796
+2025-02-21 02:58:23,500 - INFO - Step 3250 - Loss: 3.8213, Load Balancing Loss: 0.0761
+2025-02-21 02:58:59,252 - INFO - Step 3260 - Loss: 4.5271, Load Balancing Loss: 0.0800
+2025-02-21 02:59:35,076 - INFO - Step 3270 - Loss: 2.8378, Load Balancing Loss: 0.0843
+2025-02-21 03:00:10,835 - INFO - Step 3280 - Loss: 3.6077, Load Balancing Loss: 0.0770
+2025-02-21 03:00:46,642 - INFO - Step 3290 - Loss: 4.1619, Load Balancing Loss: 0.0775
+2025-02-21 03:01:22,432 - INFO - Step 3300 - Loss: 2.8219, Load Balancing Loss: 0.0845
+2025-02-21 03:01:28,024 - INFO - Saved checkpoint at step 3300
+2025-02-21 03:01:28,034 - INFO - Sample generation:
+ Chapter 7: Journey Through Time - Islamic Historical Fiction
+
+Imagine being able to travel back in time and witness historical events unfold right before your eyes! While time machines may still be a thing of the future, there's another way to experience the past in a fun and thrilling manner - through fiction books known as "Islamic Historical Fiction!" Let's embark on this literary adventure together!
+
+What is Islamic Historical Fiction?
+----------------------------------
+
+Have you ever read stories about ancient Egypt, medieval Europe, or perhaps even ancient China? If so, then you already have an idea of what historical fiction is all about. It's a type
+2025-02-21 03:02:03,997 - INFO - Step 3310 - Loss: 3.3058, Load Balancing Loss: 0.0820
+2025-02-21 03:02:39,793 - INFO - Step 3320 - Loss: 4.1796, Load Balancing Loss: 0.0773
+2025-02-21 03:03:15,642 - INFO - Step 3330 - Loss: 2.6900, Load Balancing Loss: 0.0834
+2025-02-21 03:03:51,461 - INFO - Step 3340 - Loss: 3.7852, Load Balancing Loss: 0.0771
+2025-02-21 03:04:27,305 - INFO - Step 3350 - Loss: 3.9073, Load Balancing Loss: 0.0801
+2025-02-21 03:05:03,083 - INFO - Step 3360 - Loss: 3.2466, Load Balancing Loss: 0.0827
+2025-02-21 03:05:38,860 - INFO - Step 3370 - Loss: 2.7633, Load Balancing Loss: 0.0836
+2025-02-21 03:06:14,664 - INFO - Step 3380 - Loss: 4.0004, Load Balancing Loss: 0.0789
+2025-02-21 03:06:50,473 - INFO - Step 3390 - Loss: 3.7440, Load Balancing Loss: 0.0805
+2025-02-21 03:07:26,307 - INFO - Step 3400 - Loss: 3.4570, Load Balancing Loss: 0.0810
+2025-02-21 03:07:32,795 - INFO - Saved checkpoint at step 3400
+2025-02-21 03:07:32,806 - INFO - Sample generation:
+ Course Unit: Understanding Holocaust Survivors' Memoirs
+Grade Level: Middle School
+Subject Area: Biography & Autobiography / Jewish Studies
+
+Introduction:
+The Holocaust was one of the most devastating events in human history. It occurred during World War II when six million Jews were killed by Adolf Hitler and his Nazi followers. Many people believe that reading firsthand accounts of those who lived through this terrible time can help us better understand what happened and remember the importance of fighting hatred and prejudice. These personal stories are called memoirs. A memoir is like a diary where the author writes about their own experiences and life. In this course unit, we will explore
+2025-02-21 03:08:08,724 - INFO - Step 3410 - Loss: 2.3132, Load Balancing Loss: 0.0839
+2025-02-21 03:08:44,519 - INFO - Step 3420 - Loss: 2.8404, Load Balancing Loss: 0.0819
+2025-02-21 03:09:20,278 - INFO - Step 3430 - Loss: 4.2579, Load Balancing Loss: 0.0793
+2025-02-21 03:09:56,092 - INFO - Step 3440 - Loss: 3.4483, Load Balancing Loss: 0.0799
+2025-02-21 03:10:31,889 - INFO - Step 3450 - Loss: 2.8323, Load Balancing Loss: 0.0833
+2025-02-21 03:11:07,706 - INFO - Step 3460 - Loss: 2.3988, Load Balancing Loss: 0.0853
+2025-02-21 03:11:43,508 - INFO - Step 3470 - Loss: 3.6163, Load Balancing Loss: 0.0834
+2025-02-21 03:12:19,343 - INFO - Step 3480 - Loss: 2.5094, Load Balancing Loss: 0.0840
+2025-02-21 03:12:55,113 - INFO - Step 3490 - Loss: 2.7369, Load Balancing Loss: 0.0841
+2025-02-21 03:13:30,861 - INFO - Step 3500 - Loss: 4.2416, Load Balancing Loss: 0.0808
+2025-02-21 03:13:36,472 - INFO - Saved checkpoint at step 3500
+2025-02-21 03:13:36,482 - INFO - Sample generation:
+ Chapter 14: Speed Skating Training Methods - Achieving Peak Performance on the Ice
+
+Introduction
+
+Speed skating is a thrilling winter sport that demands exceptional physical fitness, technical skill, and strategic thinking. Elite speed skaters train rigorously, employing various methods to maximize their performance on the ice. This chapter delves into the intricacies of speed skating training methods, highlighting the importance of periodization, strength and conditioning, technique development, mental preparation, and recovery. By exploring these essential components, aspiring speed skaters can learn how to optimally structure their training regimens to excel in this demanding sport.
+
+Periodization: The Foundation of Effective
+2025-02-21 03:14:12,433 - INFO - Step 3510 - Loss: 2.7167, Load Balancing Loss: 0.0832
+2025-02-21 03:14:48,233 - INFO - Step 3520 - Loss: 2.6089, Load Balancing Loss: 0.0822
+2025-02-21 03:15:24,024 - INFO - Step 3530 - Loss: 4.6434, Load Balancing Loss: 0.0790
+2025-02-21 03:15:59,913 - INFO - Step 3540 - Loss: 4.2068, Load Balancing Loss: 0.0795
+2025-02-21 03:16:35,754 - INFO - Step 3550 - Loss: 3.6190, Load Balancing Loss: 0.0881
+2025-02-21 03:17:11,548 - INFO - Step 3560 - Loss: 2.5707, Load Balancing Loss: 0.0825
+2025-02-21 03:17:47,357 - INFO - Step 3570 - Loss: 2.2153, Load Balancing Loss: 0.0846
+2025-02-21 03:18:23,165 - INFO - Step 3580 - Loss: 3.4954, Load Balancing Loss: 0.0827
+2025-02-21 03:18:58,966 - INFO - Step 3590 - Loss: 2.5582, Load Balancing Loss: 0.0865
+2025-02-21 03:19:34,753 - INFO - Step 3600 - Loss: 3.9495, Load Balancing Loss: 0.0781
+2025-02-21 03:19:40,261 - INFO - Saved checkpoint at step 3600
+2025-02-21 03:19:40,266 - INFO - Sample generation:
+ Title: Get a Great Fake Tan: A Comprehensive Guide
+
+Introduction:
+Achieving a sun-kissed glow without exposing your skin to harmful UV rays is possible with self-tanners. However, getting a great fake tan requires careful preparation, application, and maintenance. This guide will walk you through each step to ensure an even, natural-looking tan that lasts.
+
+Section 1: Preparation
+Step 1. Exfoliate Your Skin
+Why: Dead skin cells can cause an uneven tan, making some areas darker than others. Exfoliating removes dead skin, creating a smooth canvas for self-
+2025-02-21 03:20:16,379 - INFO - Step 3610 - Loss: 3.2069, Load Balancing Loss: 0.0817
+2025-02-21 03:20:52,200 - INFO - Step 3620 - Loss: 3.6871, Load Balancing Loss: 0.0804
+2025-02-21 03:21:28,268 - INFO - Step 3630 - Loss: 3.9632, Load Balancing Loss: 0.0785
+2025-02-21 06:17:46,314 - INFO - Step 3640 - Loss: 3.4869, Load Balancing Loss: 0.0789
+2025-02-21 06:18:22,206 - INFO - Step 3650 - Loss: 3.5397, Load Balancing Loss: 0.0860
+2025-02-21 06:18:58,004 - INFO - Step 3660 - Loss: 3.7800, Load Balancing Loss: 0.0794
+2025-02-21 06:19:33,804 - INFO - Step 3670 - Loss: 2.9234, Load Balancing Loss: 0.0818
+2025-02-21 06:20:09,602 - INFO - Step 3680 - Loss: 4.1392, Load Balancing Loss: 0.0787
+2025-02-21 06:20:45,409 - INFO - Step 3690 - Loss: 3.4654, Load Balancing Loss: 0.0838
+2025-02-21 06:21:21,233 - INFO - Step 3700 - Loss: 2.7035, Load Balancing Loss: 0.0898
+2025-02-21 06:21:30,353 - INFO - Saved checkpoint at step 3700
+2025-02-21 06:21:30,377 - INFO - Sample generation:
+Welcome to our new chapter all about setting study goals! I'm sure many of you have had moments when you felt overwhelmed by your homework or struggled to focus during study sessions. That's why it's important to set achievable goals for yourself while studying. Today, we'll explore various techniques to help you create effective study objectives and improve your test-taking skills. Let's dive right in!
+
+**What does it mean to set study goals?**
+
+Setting study goals means deciding what you want to accomplish during your study time. This could range from learning a specific concept, completing a worksheet, or preparing for a big exam. By
+2025-02-21 06:22:06,666 - INFO - Step 3710 - Loss: 2.4491, Load Balancing Loss: 0.0919
+2025-02-21 06:22:42,513 - INFO - Step 3720 - Loss: 3.1356, Load Balancing Loss: 0.0868
+2025-02-21 06:23:18,338 - INFO - Step 3730 - Loss: 3.5509, Load Balancing Loss: 0.0801
+2025-02-21 06:23:54,149 - INFO - Step 3740 - Loss: 2.5745, Load Balancing Loss: 0.0908
+2025-02-21 06:24:29,953 - INFO - Step 3750 - Loss: 2.7821, Load Balancing Loss: 0.0824
+2025-02-21 06:25:05,734 - INFO - Step 3760 - Loss: 2.4223, Load Balancing Loss: 0.0859
+2025-02-21 06:25:41,548 - INFO - Step 3770 - Loss: 2.7676, Load Balancing Loss: 0.0839
+2025-02-21 06:26:17,461 - INFO - Step 3780 - Loss: 3.6017, Load Balancing Loss: 0.0822
+2025-02-21 06:26:53,333 - INFO - Step 3790 - Loss: 3.8277, Load Balancing Loss: 0.0804
+2025-02-21 06:27:29,143 - INFO - Step 3800 - Loss: 2.9164, Load Balancing Loss: 0.0831
+2025-02-21 06:27:34,753 - INFO - Saved checkpoint at step 3800
+2025-02-21 06:27:34,757 - INFO - Sample generation:
+ In this course unit, we will delve into the fascinating world of dialects and regional languages within the context of Young Adult Nonfiction and Language Arts. Our focus will be on how authors use dialects and regional languages to enhance their stories and convey meaning more effectively. Specifically, we will analyze how Tim O'Brien uses regional language in his book "The Things They Carried" to add authenticity and depth to the characters' voices and experiences.
+
+To begin, let us define what we mean by dialects and regional languages. Dialects are varieties of language that are specific to certain regions, social groups, or communities. These variations may include differences in
+2025-02-21 06:28:10,937 - INFO - Step 3810 - Loss: 2.5683, Load Balancing Loss: 0.0861
+2025-02-21 06:28:46,767 - INFO - Step 3820 - Loss: 3.8995, Load Balancing Loss: 0.0819
+2025-02-21 06:29:22,625 - INFO - Step 3830 - Loss: 2.6286, Load Balancing Loss: 0.0909
+2025-02-21 06:29:58,421 - INFO - Step 3840 - Loss: 1.9118, Load Balancing Loss: 0.0929
+2025-02-21 06:30:34,228 - INFO - Step 3850 - Loss: 3.6879, Load Balancing Loss: 0.0828
+2025-02-21 06:31:10,050 - INFO - Step 3860 - Loss: 2.6283, Load Balancing Loss: 0.0850
+2025-02-21 06:31:45,876 - INFO - Step 3870 - Loss: 3.3528, Load Balancing Loss: 0.0841
+2025-02-21 06:32:21,668 - INFO - Step 3880 - Loss: 3.3175, Load Balancing Loss: 0.0841
+2025-02-21 06:32:57,483 - INFO - Step 3890 - Loss: 2.9233, Load Balancing Loss: 0.0857
+2025-02-21 06:33:33,304 - INFO - Step 3900 - Loss: 3.0750, Load Balancing Loss: 0.0846
+2025-02-21 06:33:38,726 - INFO - Saved checkpoint at step 3900
+2025-02-21 06:33:38,736 - INFO - Sample generation:
+## Understanding the Earth Model in Python
+
+In this section, we will explore the Earth model in Python, which is a type of machine learning algorithm used for regression tasks. We will also delve into the process of registering input sizes, symbols, and predict and transform functions for the Earth model.
+
+### Importing Necessary Libraries
+
+Before we begin, let's ensure we have the necessary libraries installed and imported.
+
+```python
+!pip install pyearth
+```
+
+```python
+from ..input_size import register_input_size
+from pyearth.earth import Earth
+from pyearth.export
+2025-02-21 06:34:14,639 - INFO - Step 3910 - Loss: 2.5313, Load Balancing Loss: 0.0884
+2025-02-21 06:34:50,442 - INFO - Step 3920 - Loss: 3.1665, Load Balancing Loss: 0.0844
+2025-02-21 06:35:26,272 - INFO - Step 3930 - Loss: 4.0441, Load Balancing Loss: 0.0817
+2025-02-21 06:36:02,076 - INFO - Step 3940 - Loss: 2.5020, Load Balancing Loss: 0.0831
+2025-02-21 06:40:30,551 - INFO - Loading checkpoint from deepseek_checkpoints\checkpoint_3900.pt
+2025-02-21 06:40:35,747 - INFO - Successfully loaded checkpoint from step 3900
+2025-02-21 06:40:35,747 - INFO - Resuming from checkpoint at step 3900
+2025-02-21 06:40:46,223 - INFO - Step 3900 - Loss: 3.0440, Load Balancing Loss: 0.0848
+2025-02-21 06:40:52,919 - INFO - Saved checkpoint at step 3900
+2025-02-21 06:40:52,930 - INFO - Sample generation:
+ In today's ever-evolving world, technology has become an integral part of our lives, shaping the way we learn, work, and communicate. The COVID-19 pandemic has only accelerated this trend, forcing educational institutions worldwide to adapt quickly to remote learning models. As such, social studies integration in elementary education can greatly benefit from incorporating digital tools like those offered by Ruangguru's Online School. Let's explore how educators can effectively leverage these resources to create engaging and meaningful learning experiences for young students.
+
+Firstly, let's define what we mean by social studies integration. Social studies encompasses various disciplines that help students understand their communities
+2025-02-21 06:41:26,283 - INFO - Step 3910 - Loss: 2.6690, Load Balancing Loss: 0.0908
+2025-02-21 06:41:59,219 - INFO - Step 3920 - Loss: 3.7597, Load Balancing Loss: 0.0906
+2025-02-21 06:42:32,179 - INFO - Step 3930 - Loss: 2.4273, Load Balancing Loss: 0.0946
+2025-02-21 06:43:04,828 - INFO - Step 3940 - Loss: 3.1790, Load Balancing Loss: 0.0873
+2025-02-21 06:43:37,492 - INFO - Step 3950 - Loss: 2.9715, Load Balancing Loss: 0.0909
+2025-02-21 06:44:10,143 - INFO - Step 3960 - Loss: 3.5912, Load Balancing Loss: 0.0853
+2025-02-21 06:44:43,164 - INFO - Step 3970 - Loss: 3.8872, Load Balancing Loss: 0.0873
+2025-02-21 06:45:16,161 - INFO - Step 3980 - Loss: 2.6961, Load Balancing Loss: 0.0933
+2025-02-21 06:45:49,151 - INFO - Step 3990 - Loss: 2.4170, Load Balancing Loss: 0.0946
+2025-02-21 06:46:22,142 - INFO - Step 4000 - Loss: 3.2684, Load Balancing Loss: 0.0914
+2025-02-21 06:46:29,286 - INFO - Saved checkpoint at step 4000
+2025-02-21 06:46:29,303 - INFO - Sample generation:
+## Chaos Theory and the Ikeda Map
+
+Chaos theory is a branch of mathematics that deals with the behavior of nonlinear dynamical systems that are highly sensitive to initial conditions. This sensitivity leads to unpredictability, which is often referred to as the butterfly effect. In this section, we will explore the Ikeda map, a famous example of a chaotic system.
+
+### The Ikeda Map
+
+The Ikeda map is a discrete-time dynamical system that was introduced by Kensuke Ikeda in 1979. It is a two-dimensional map that describes the behavior
+2025-02-21 06:47:02,768 - INFO - Step 4010 - Loss: 2.4554, Load Balancing Loss: 0.0881
+2025-02-21 06:47:35,810 - INFO - Step 4020 - Loss: 3.4973, Load Balancing Loss: 0.0867
+2025-02-21 06:48:08,809 - INFO - Step 4030 - Loss: 2.6341, Load Balancing Loss: 0.0967
+2025-02-21 06:48:41,918 - INFO - Step 4040 - Loss: 2.8904, Load Balancing Loss: 0.0905
+2025-02-21 06:49:15,169 - INFO - Step 4050 - Loss: 3.6162, Load Balancing Loss: 0.0920
+2025-02-21 06:49:48,110 - INFO - Step 4060 - Loss: 2.9153, Load Balancing Loss: 0.0930
+2025-02-21 06:50:21,009 - INFO - Step 4070 - Loss: 2.7017, Load Balancing Loss: 0.0962
+2025-02-21 06:50:53,973 - INFO - Step 4080 - Loss: 1.8389, Load Balancing Loss: 0.0906
+2025-02-21 06:51:26,883 - INFO - Step 4090 - Loss: 2.6044, Load Balancing Loss: 0.0912
+2025-02-21 06:51:59,798 - INFO - Step 4100 - Loss: 2.7317, Load Balancing Loss: 0.0852
+2025-02-21 06:52:06,313 - INFO - Saved checkpoint at step 4100
+2025-02-21 06:52:06,323 - INFO - Sample generation:
+ Once upon a time in the magical land of Devon, there lived ten curious friends named after famous literary figures - Agatha, Sammy, Charlie, Teddy, Johnny Gay, Harry, Mary, John B., Henry, and Galsworthy. They all had unique personalities and loved exploring the world around them. One sunny day, they decided to go on a nature hike and learn about different types of plants and animals.
+
+As they walked deeper into the forest, Agatha noticed something peculiar. "Look! These flowers are glowing!" she exclaimed. Sammy, being a fan of poetry, recited, "There was a little girl who
+2025-02-21 06:52:39,385 - INFO - Step 4110 - Loss: 2.2409, Load Balancing Loss: 0.0964
+2025-02-21 06:53:12,303 - INFO - Step 4120 - Loss: 1.9445, Load Balancing Loss: 0.0897
+2025-02-21 06:53:45,242 - INFO - Step 4130 - Loss: 2.5890, Load Balancing Loss: 0.0966
+2025-02-21 06:54:18,162 - INFO - Step 4140 - Loss: 2.1593, Load Balancing Loss: 0.0964
+2025-02-21 06:54:51,094 - INFO - Step 4150 - Loss: 3.7615, Load Balancing Loss: 0.0876
+2025-02-21 06:55:24,087 - INFO - Step 4160 - Loss: 2.2247, Load Balancing Loss: 0.0922
+2025-02-21 06:55:57,004 - INFO - Step 4170 - Loss: 2.5559, Load Balancing Loss: 0.0947
+2025-02-21 06:56:29,929 - INFO - Step 4180 - Loss: 1.7074, Load Balancing Loss: 0.1038
+2025-02-21 06:57:02,885 - INFO - Step 4190 - Loss: 2.9078, Load Balancing Loss: 0.0929
+2025-02-21 06:57:35,799 - INFO - Step 4200 - Loss: 3.0262, Load Balancing Loss: 0.0904
+2025-02-21 06:57:42,494 - INFO - Saved checkpoint at step 4200
+2025-02-21 06:57:42,501 - INFO - Sample generation:
+ Course Unit: Inclusive Language and Jesus' Life and Ministry
+
+In recent decades, discussions surrounding inclusive language in biblical translations have gained significant attention, particularly in English-speaking contexts where they are sometimes referred to as gender-neutral translations. These debates reveal underlying hermeneutical and socio-political differences that challenge established power dynamics within both biblical scholarship and religious institutions. This course unit will delve into these controversies by examining how inclusive language relates to Jesus' life and ministry as presented in the New Testament.
+
+1. Understanding Inclusive Language
+
+To begin, it is essential to understand what constitutes inclusive language. In this context, inclusive language seeks to avoid
+2025-02-21 06:58:15,827 - INFO - Step 4210 - Loss: 1.9906, Load Balancing Loss: 0.0964
+2025-02-21 06:58:49,172 - INFO - Step 4220 - Loss: 2.2607, Load Balancing Loss: 0.0944
+2025-02-21 06:59:22,121 - INFO - Step 4230 - Loss: 2.1730, Load Balancing Loss: 0.0941
+2025-02-21 06:59:55,045 - INFO - Step 4240 - Loss: 2.2592, Load Balancing Loss: 0.0931
+2025-02-21 07:00:27,954 - INFO - Step 4250 - Loss: 1.8766, Load Balancing Loss: 0.0980
+2025-02-21 07:01:00,892 - INFO - Step 4260 - Loss: 2.6444, Load Balancing Loss: 0.0852
+2025-02-21 07:01:33,792 - INFO - Step 4270 - Loss: 3.3096, Load Balancing Loss: 0.0836
+2025-02-21 07:02:06,714 - INFO - Step 4280 - Loss: 3.0291, Load Balancing Loss: 0.0868
+2025-02-21 07:02:39,613 - INFO - Step 4290 - Loss: 2.2632, Load Balancing Loss: 0.0952
+2025-02-21 07:03:12,556 - INFO - Step 4300 - Loss: 3.0687, Load Balancing Loss: 0.0883
+2025-02-21 07:03:19,091 - INFO - Saved checkpoint at step 4300
+2025-02-21 07:03:19,098 - INFO - Sample generation:
+ Business-to-Business (B2B) e-commerce has become a critical aspect of modern commerce, enabling organizations to streamline their operations, reduce costs, and improve efficiency by conducting business electronically. At its core, B2B e-commerce involves the use of technology to facilitate transactions and exchange data between businesses. This chapter will delve into two key concepts underpinning B2B e-commerce: Electronic Data Interchange (EDI) and Application Programming Interfaces (APIs). We will explore these concepts in detail, examining their history, benefits, challenges, and best practices.
+
+**Electronic Data Interchange (EDI)**
+2025-02-21 07:03:52,120 - INFO - Step 4310 - Loss: 2.8663, Load Balancing Loss: 0.0873
+2025-02-21 07:04:25,045 - INFO - Step 4320 - Loss: 2.5714, Load Balancing Loss: 0.0904
+2025-02-21 07:04:57,982 - INFO - Step 4330 - Loss: 3.1449, Load Balancing Loss: 0.0834
+2025-02-21 07:05:30,909 - INFO - Step 4340 - Loss: 3.2192, Load Balancing Loss: 0.0832
+2025-02-21 07:06:03,818 - INFO - Step 4350 - Loss: 2.0214, Load Balancing Loss: 0.0961
+2025-02-21 07:06:36,720 - INFO - Step 4360 - Loss: 2.6313, Load Balancing Loss: 0.0894
+2025-02-21 07:07:09,654 - INFO - Step 4370 - Loss: 1.8934, Load Balancing Loss: 0.0969
+2025-02-21 07:07:42,581 - INFO - Step 4380 - Loss: 1.7177, Load Balancing Loss: 0.0959
+2025-02-21 07:08:15,482 - INFO - Step 4390 - Loss: 2.3980, Load Balancing Loss: 0.0926
+2025-02-21 07:08:48,435 - INFO - Step 4400 - Loss: 2.6325, Load Balancing Loss: 0.0963
+2025-02-21 07:08:54,857 - INFO - Saved checkpoint at step 4400
+2025-02-21 07:08:54,867 - INFO - Sample generation:
+ Course Unit: Crisis Mapping and Geospatial Analysis in Emergency Management
+
+Imagine you are part of a team responsible for helping people affected by natural disasters like hurricanes, wildfires, or floods. Your job is to gather information about the crisis, analyze it quickly, and then decide where to send aid, such as food, water, medicine, and other supplies. This is where crisis mapping and geospatial analysis come into play! Let's learn more about these powerful tools.
+
+What is crisis mapping?
+------------------------
+
+Crisis mapping is a way to visualize important information during emergencies using maps. These maps show things like the location of people
+2025-02-21 07:09:27,970 - INFO - Step 4410 - Loss: 2.0350, Load Balancing Loss: 0.0921
+2025-02-21 07:10:00,914 - INFO - Step 4420 - Loss: 2.7825, Load Balancing Loss: 0.0895
+2025-02-21 07:10:33,831 - INFO - Step 4430 - Loss: 2.5207, Load Balancing Loss: 0.0895
+2025-02-21 07:11:06,767 - INFO - Step 4440 - Loss: 2.7695, Load Balancing Loss: 0.0872
+2025-02-21 07:11:39,699 - INFO - Step 4450 - Loss: 2.7512, Load Balancing Loss: 0.0899
+2025-02-21 07:12:12,627 - INFO - Step 4460 - Loss: 3.2009, Load Balancing Loss: 0.0869
+2025-02-21 07:12:45,535 - INFO - Step 4470 - Loss: 1.8850, Load Balancing Loss: 0.0925
+2025-02-21 07:13:18,449 - INFO - Step 4480 - Loss: 1.8715, Load Balancing Loss: 0.0954
+2025-02-21 07:13:51,354 - INFO - Step 4490 - Loss: 1.5292, Load Balancing Loss: 0.0908
+2025-02-21 07:14:24,283 - INFO - Step 4500 - Loss: 3.3340, Load Balancing Loss: 0.0886
+2025-02-21 07:14:30,794 - INFO - Saved checkpoint at step 4500
+2025-02-21 07:14:30,798 - INFO - Sample generation:
+ Chapter 8: Slalom Skating - Zigzagging Fun on Wheels!
+
+Have you ever seen someone zipping down the sidewalk, smoothly turning between obstacles while standing on roller skates? That's slalom skating! This thrilling recreation activity combines balance, agility, and speed into one fantastic experience. Let's dive into this fun world together!
+
+**What Is Slalom Skating?**
+
+Imagine yourself wearing a pair of cool roller skates, navigating through a playground full of cones set up in a winding pattern. You dodge left and right, swiftly changing directions while maintaining control and style – that's slalom
+2025-02-21 07:15:04,136 - INFO - Step 4510 - Loss: 1.9595, Load Balancing Loss: 0.0950
+2025-02-21 07:15:37,067 - INFO - Step 4520 - Loss: 3.5024, Load Balancing Loss: 0.0867
+2025-02-21 07:16:09,994 - INFO - Step 4530 - Loss: 3.1917, Load Balancing Loss: 0.0874
+2025-02-21 07:16:42,950 - INFO - Step 4540 - Loss: 3.0130, Load Balancing Loss: 0.0834
+2025-02-21 07:17:15,857 - INFO - Step 4550 - Loss: 1.6195, Load Balancing Loss: 0.0932
+2025-02-21 07:17:48,769 - INFO - Step 4560 - Loss: 2.2274, Load Balancing Loss: 0.1045
+2025-02-21 07:18:21,682 - INFO - Step 4570 - Loss: 3.2516, Load Balancing Loss: 0.0891
+2025-02-21 07:18:54,608 - INFO - Step 4580 - Loss: 2.5048, Load Balancing Loss: 0.0933
+2025-02-21 07:19:27,506 - INFO - Step 4590 - Loss: 1.9215, Load Balancing Loss: 0.0973
+2025-02-21 07:20:00,437 - INFO - Step 4600 - Loss: 1.9335, Load Balancing Loss: 0.0943
+2025-02-21 07:20:06,876 - INFO - Saved checkpoint at step 4600
+2025-02-21 07:20:06,880 - INFO - Sample generation:
+I am happy to meet you and help you understand our planet and its inhabitants better. I see you are interested in learning about us, specifically our religion and beliefs. That's great! Let me tell you a story about one of our most well-known religious tales, the Nativity Story, which comes from the New Testament of the Bible. But before I start, let me clarify some basics about humans and our behavior.
+
+On Earth, people live in various groups called countries or societies, each having unique traditions and customs. We communicate using sounds and gestures, forming languages like English, which helps us express thoughts, emotions, and
+2025-02-21 07:20:39,975 - INFO - Step 4610 - Loss: 2.1490, Load Balancing Loss: 0.0928
+2025-02-21 07:21:12,921 - INFO - Step 4620 - Loss: 2.0885, Load Balancing Loss: 0.0955
+2025-02-21 07:21:45,856 - INFO - Step 4630 - Loss: 2.1344, Load Balancing Loss: 0.0958
+2025-02-21 07:22:18,781 - INFO - Step 4640 - Loss: 2.1437, Load Balancing Loss: 0.0938
+2025-02-21 07:22:51,704 - INFO - Step 4650 - Loss: 1.8491, Load Balancing Loss: 0.0928
+2025-02-21 07:23:24,619 - INFO - Step 4660 - Loss: 2.8264, Load Balancing Loss: 0.0872
+2025-02-21 07:23:57,537 - INFO - Step 4670 - Loss: 2.2375, Load Balancing Loss: 0.0910
+2025-02-21 07:24:30,432 - INFO - Step 4680 - Loss: 2.9495, Load Balancing Loss: 0.0886
+2025-02-21 07:25:03,402 - INFO - Step 4690 - Loss: 3.4803, Load Balancing Loss: 0.0851
+2025-02-21 07:25:36,307 - INFO - Step 4700 - Loss: 3.3679, Load Balancing Loss: 0.0829
+2025-02-21 07:25:42,685 - INFO - Saved checkpoint at step 4700
+2025-02-21 07:25:42,689 - INFO - Sample generation:
+ Title: Creating a Xeriscape Garden in the Piedmont Triad Region
+
+Xeriscaping is a water-conservation technique used in gardening that involves selecting plants and arranging them in a way that reduces the need for supplemental irrigation. This method is especially useful in regions with hot summers and limited rainfall, such as the Piedmont Triad region in North Carolina which includes Greensboro, High Point, and Winston-Salem. By creating a xeriscape garden using native plants listed in this article, you will save time, money, and resources while also providing habitat for local wildlife.
+
+### Part 1 of 4
+2025-02-21 07:26:15,738 - INFO - Step 4710 - Loss: 2.6389, Load Balancing Loss: 0.0872
+2025-02-21 07:26:48,738 - INFO - Step 4720 - Loss: 2.7051, Load Balancing Loss: 0.0874
+2025-02-21 07:27:21,645 - INFO - Step 4730 - Loss: 2.3035, Load Balancing Loss: 0.0892
+2025-02-21 07:27:54,538 - INFO - Step 4740 - Loss: 2.4429, Load Balancing Loss: 0.0864
+2025-02-21 07:28:27,451 - INFO - Step 4750 - Loss: 3.4306, Load Balancing Loss: 0.0831
+2025-02-21 07:29:00,384 - INFO - Step 4760 - Loss: 2.7990, Load Balancing Loss: 0.0889
+2025-02-21 07:29:33,316 - INFO - Step 4770 - Loss: 2.4371, Load Balancing Loss: 0.0899
+2025-02-21 07:30:06,238 - INFO - Step 4780 - Loss: 3.7645, Load Balancing Loss: 0.0800
+2025-02-21 07:30:39,153 - INFO - Step 4790 - Loss: 1.9519, Load Balancing Loss: 0.0948
+2025-02-21 07:31:12,078 - INFO - Step 4800 - Loss: 2.7464, Load Balancing Loss: 0.0883
+2025-02-21 07:31:18,496 - INFO - Saved checkpoint at step 4800
+2025-02-21 07:31:18,499 - INFO - Sample generation:
+ A few years ago, I found myself knee-deep in the world of board game design. It was a niche interest that combined my love for gaming with my background in economics. My latest creation, an elaborate train-themed game called "Rail Baron," had been gaining popularity at local game nights. Encouraged by its success, I decided it was time to take the plunge and start producing the game on a larger scale.
+
+At first, determining the pricing strategy seemed straightforward. With help from online resources and Reddit forums, I learned about cost-based and value-based pricing strategies. Applying these concepts, I calculated the
+2025-02-21 07:31:51,609 - INFO - Step 4810 - Loss: 2.4450, Load Balancing Loss: 0.0877
+2025-02-21 07:32:24,513 - INFO - Step 4820 - Loss: 2.4516, Load Balancing Loss: 0.0892
+2025-02-21 07:32:57,437 - INFO - Step 4830 - Loss: 2.4275, Load Balancing Loss: 0.0859
+2025-02-21 07:33:30,357 - INFO - Step 4840 - Loss: 2.0215, Load Balancing Loss: 0.0960
+2025-02-21 07:34:03,262 - INFO - Step 4850 - Loss: 2.5552, Load Balancing Loss: 0.0888
+2025-02-21 07:34:36,158 - INFO - Step 4860 - Loss: 1.5311, Load Balancing Loss: 0.0977
+2025-02-21 07:35:09,086 - INFO - Step 4870 - Loss: 1.8652, Load Balancing Loss: 0.0958
+2025-02-21 07:35:42,014 - INFO - Step 4880 - Loss: 1.4857, Load Balancing Loss: 0.0991
+2025-02-21 07:36:14,916 - INFO - Step 4890 - Loss: 3.5496, Load Balancing Loss: 0.0812
+2025-02-21 07:36:47,549 - INFO - Step 4900 - Loss: 3.3711, Load Balancing Loss: 0.0843
+2025-02-21 07:36:54,039 - INFO - Saved checkpoint at step 4900
+2025-02-21 07:36:54,044 - INFO - Sample generation:
+ Title: Maximize Space Efficiency with Multi-Functional Furniture in Small Rooms
+
+wikiHow Article:
+
+**Introduction:**
+Multi-functional furniture can significantly optimize space layout in small rooms while providing versatile solutions for various needs. This article will guide you through selecting, integrating, and utilizing multi-functional pieces effectively.
+
+**Step 1: Identify Your Room Needs**
+Analyze your room requirements by listing down daily activities performed there. Consider work, relaxation, exercise, storage, or socialization aspects when evaluating spatial demands.
+
+*Key tip:* Prioritize essential functions over occasional ones to ensure optimal utilization of limited space
+2025-02-21 07:37:27,090 - INFO - Step 4910 - Loss: 2.7693, Load Balancing Loss: 0.0831
+2025-02-21 07:38:00,024 - INFO - Step 4920 - Loss: 1.7946, Load Balancing Loss: 0.0945
+2025-02-21 07:38:32,978 - INFO - Step 4930 - Loss: 2.9383, Load Balancing Loss: 0.0887
+2025-02-21 07:39:05,908 - INFO - Step 4940 - Loss: 2.3749, Load Balancing Loss: 0.0926
+2025-02-21 07:39:38,830 - INFO - Step 4950 - Loss: 1.9305, Load Balancing Loss: 0.0922
+2025-02-21 07:40:11,760 - INFO - Step 4960 - Loss: 1.7919, Load Balancing Loss: 0.0965
+2025-02-21 07:40:44,709 - INFO - Step 4970 - Loss: 1.4284, Load Balancing Loss: 0.0994
+2025-02-21 07:41:17,651 - INFO - Step 4980 - Loss: 1.6009, Load Balancing Loss: 0.1067
+2025-02-21 07:41:50,632 - INFO - Step 4990 - Loss: 1.5444, Load Balancing Loss: 0.0996
+2025-02-21 07:42:23,556 - INFO - Step 5000 - Loss: 2.9823, Load Balancing Loss: 0.0922
+2025-02-21 07:42:30,126 - INFO - Saved checkpoint at step 5000
+2025-02-21 07:42:30,129 - INFO - Sample generation:
+ Title: When Tesla Met Edison: A Hilarious Encounter Fueled by Unlikely Friendship and Competition
+
+It was an ordinary day when I, Nikola Tesla, received an invitation from none other than Thomas Edison himself. Yes, *the* Thomas Edison - the man known for his advocacy of direct current (DC). You can imagine my surprise; after all, we were rivals in the world of electricity. Our ongoing battle between AC and DC was legendary! Little did I know that our encounter would lead to a niche interest, an unexpected plot twist, and profound insights.
+
+I arrived at Edison's lab, filled with
+2025-02-21 07:43:03,206 - INFO - Step 5010 - Loss: 2.2901, Load Balancing Loss: 0.0900
+2025-02-21 07:43:36,100 - INFO - Step 5020 - Loss: 3.3246, Load Balancing Loss: 0.0863
+2025-02-21 07:44:08,995 - INFO - Step 5030 - Loss: 2.6326, Load Balancing Loss: 0.0890
+2025-02-21 07:44:41,942 - INFO - Step 5040 - Loss: 3.1737, Load Balancing Loss: 0.0843
+2025-02-21 07:45:14,894 - INFO - Step 5050 - Loss: 1.4095, Load Balancing Loss: 0.1056
+2025-02-21 07:45:47,821 - INFO - Step 5060 - Loss: 2.3737, Load Balancing Loss: 0.0931
+2025-02-21 07:46:20,743 - INFO - Step 5070 - Loss: 3.2990, Load Balancing Loss: 0.0844
+2025-02-21 07:46:53,708 - INFO - Step 5080 - Loss: 1.9933, Load Balancing Loss: 0.0959
+2025-02-21 07:47:26,621 - INFO - Step 5090 - Loss: 1.8846, Load Balancing Loss: 0.0924
+2025-02-21 07:47:59,533 - INFO - Step 5100 - Loss: 2.6352, Load Balancing Loss: 0.0906
+2025-02-21 07:48:05,911 - INFO - Saved checkpoint at step 5100
+2025-02-21 07:48:05,916 - INFO - Sample generation:
+ Chapter 7: Advanced Pattern Making and Design Techniques for Sportswear and Apparel
+
+In this chapter, we will delve into the intricate process of creating patterns for high-performance sportswear, specifically focusing on leatherwork and hidework. We will explore how Paladin Sports, a leading sportswear and apparel brand, utilizes cutting-edge technology and expert craftsmanship to produce bespoke designs that enhance athletic performance while ensuring maximum comfort and style. Through an examination of their methods and techniques, you will gain valuable insights into the world of advanced pattern making and its applications in contemporary fashion.
+
+I. An Overview of Pattern
+2025-02-21 07:48:39,049 - INFO - Step 5110 - Loss: 2.0987, Load Balancing Loss: 0.0915
+2025-02-21 07:49:11,985 - INFO - Step 5120 - Loss: 1.3886, Load Balancing Loss: 0.1007
+2025-02-21 07:49:44,889 - INFO - Step 5130 - Loss: 2.3691, Load Balancing Loss: 0.0884
+2025-02-21 07:50:17,838 - INFO - Step 5140 - Loss: 2.7139, Load Balancing Loss: 0.0895
+2025-02-21 07:50:50,778 - INFO - Step 5150 - Loss: 2.3850, Load Balancing Loss: 0.0900
+2025-02-21 07:51:23,699 - INFO - Step 5160 - Loss: 3.0553, Load Balancing Loss: 0.0875
+2025-02-21 07:51:56,636 - INFO - Step 5170 - Loss: 1.6380, Load Balancing Loss: 0.0983
+2025-02-21 07:52:29,544 - INFO - Step 5180 - Loss: 2.5187, Load Balancing Loss: 0.0884
+2025-02-21 07:53:02,479 - INFO - Step 5190 - Loss: 2.6230, Load Balancing Loss: 0.0923
+2025-02-21 07:53:35,393 - INFO - Step 5200 - Loss: 1.3777, Load Balancing Loss: 0.0951
+2025-02-21 07:53:41,817 - INFO - Saved checkpoint at step 5200
+2025-02-21 07:53:41,819 - INFO - Sample generation:
+ Chapter 7: Journey Through Time - Islamic Historical Fiction
+
+Imagine being able to travel back in time and witness historical events unfold right before your eyes! While time machines may still be a thing of the future, there's another way to experience the past in a fun and thrilling manner - through fiction books known as "Islamic Historical Fiction!" Let's embark on this literary adventure together!
+
+What is Islamic Historical Fiction?
+----------------------------------
+
+Have you ever read stories about ancient Egypt, medieval Europe, or perhaps even ancient China? If so, then you already have an idea of what historical fiction is all about. It's a type
+2025-02-21 07:54:14,942 - INFO - Step 5210 - Loss: 1.9123, Load Balancing Loss: 0.0988
+2025-02-21 07:54:47,872 - INFO - Step 5220 - Loss: 2.9190, Load Balancing Loss: 0.0905
+2025-02-21 07:55:20,806 - INFO - Step 5230 - Loss: 1.6578, Load Balancing Loss: 0.0966
+2025-02-21 07:55:53,721 - INFO - Step 5240 - Loss: 2.6623, Load Balancing Loss: 0.0872
+2025-02-21 07:56:26,653 - INFO - Step 5250 - Loss: 2.6162, Load Balancing Loss: 0.0924
+2025-02-21 07:56:59,604 - INFO - Step 5260 - Loss: 1.9461, Load Balancing Loss: 0.0946
+2025-02-21 07:57:32,520 - INFO - Step 5270 - Loss: 1.6138, Load Balancing Loss: 0.0928
+2025-02-21 07:58:05,432 - INFO - Step 5280 - Loss: 2.7472, Load Balancing Loss: 0.0849
+2025-02-21 07:58:38,348 - INFO - Step 5290 - Loss: 2.1366, Load Balancing Loss: 0.0937
+2025-02-21 07:59:11,275 - INFO - Step 5300 - Loss: 2.1511, Load Balancing Loss: 0.0902
+2025-02-21 07:59:17,933 - INFO - Saved checkpoint at step 5300
+2025-02-21 07:59:17,937 - INFO - Sample generation:
+ Course Unit: Understanding Holocaust Survivors' Memoirs
+Grade Level: Middle School
+Subject Area: Biography & Autobiography / Jewish Studies
+
+Introduction:
+The Holocaust was one of the most devastating events in human history. It occurred during World War II when six million Jews were killed by Adolf Hitler and his Nazi followers. Many people believe that reading firsthand accounts of those who lived through this terrible time can help us better understand what happened and remember the importance of fighting hatred and prejudice. These personal stories are called memoirs. A memoir is like a diary where the author writes about their own experiences and life. In this course unit, we will explore
+2025-02-21 07:59:51,055 - INFO - Step 5310 - Loss: 1.2323, Load Balancing Loss: 0.1001
+2025-02-21 08:00:23,989 - INFO - Step 5320 - Loss: 1.6502, Load Balancing Loss: 0.0918
+2025-02-21 08:00:56,923 - INFO - Step 5330 - Loss: 2.8758, Load Balancing Loss: 0.0835
+2025-02-21 08:01:29,841 - INFO - Step 5340 - Loss: 2.1570, Load Balancing Loss: 0.0936
+2025-02-21 08:02:02,780 - INFO - Step 5350 - Loss: 1.5317, Load Balancing Loss: 0.0958
+2025-02-21 08:02:35,721 - INFO - Step 5360 - Loss: 1.3230, Load Balancing Loss: 0.1008
+2025-02-21 08:03:08,647 - INFO - Step 5370 - Loss: 2.2904, Load Balancing Loss: 0.0942
+2025-02-21 08:03:41,574 - INFO - Step 5380 - Loss: 1.1287, Load Balancing Loss: 0.0979
+2025-02-21 08:04:14,480 - INFO - Step 5390 - Loss: 1.5303, Load Balancing Loss: 0.0970
+2025-02-21 08:04:47,407 - INFO - Step 5400 - Loss: 3.0163, Load Balancing Loss: 0.0868
+2025-02-21 08:04:53,878 - INFO - Saved checkpoint at step 5400
+2025-02-21 08:04:53,881 - INFO - Sample generation:
+ Chapter 14: Speed Skating Training Methods - Achieving Peak Performance on the Ice
+
+Introduction
+
+Speed skating is a thrilling winter sport that demands exceptional physical fitness, technical skill, and strategic thinking. Elite speed skaters train rigorously, employing various methods to maximize their performance on the ice. This chapter delves into the intricacies of speed skating training methods, highlighting the importance of periodization, strength and conditioning, technique development, mental preparation, and recovery. By exploring these essential components, aspiring speed skaters can learn how to optimally structure their training regimens to excel in this demanding sport.
+
+Periodization: The Foundation of Effective
+2025-02-21 08:05:26,944 - INFO - Step 5410 - Loss: 1.6526, Load Balancing Loss: 0.0963
+2025-02-21 08:05:59,883 - INFO - Step 5420 - Loss: 1.5706, Load Balancing Loss: 0.0992
+2025-02-21 08:06:32,808 - INFO - Step 5430 - Loss: 3.2032, Load Balancing Loss: 0.0887
+2025-02-21 08:07:05,763 - INFO - Step 5440 - Loss: 2.7680, Load Balancing Loss: 0.0866
+2025-02-21 08:07:38,685 - INFO - Step 5450 - Loss: 2.2861, Load Balancing Loss: 0.0932
+2025-02-21 08:08:11,585 - INFO - Step 5460 - Loss: 1.4366, Load Balancing Loss: 0.0959
+2025-02-21 08:08:44,507 - INFO - Step 5470 - Loss: 1.2686, Load Balancing Loss: 0.1008
+2025-02-21 08:09:17,444 - INFO - Step 5480 - Loss: 2.2482, Load Balancing Loss: 0.0915
+2025-02-21 08:09:50,380 - INFO - Step 5490 - Loss: 1.4242, Load Balancing Loss: 0.0988
+2025-02-21 08:10:23,289 - INFO - Step 5500 - Loss: 2.7527, Load Balancing Loss: 0.0899
+2025-02-21 08:10:29,635 - INFO - Saved checkpoint at step 5500
+2025-02-21 08:10:29,639 - INFO - Sample generation:
+ Title: Get a Great Fake Tan: A Comprehensive Guide
+
+Introduction:
+Achieving a sun-kissed glow without exposing your skin to harmful UV rays is possible with self-tanners. However, getting a great fake tan requires careful preparation, application, and maintenance. This guide will walk you through each step to ensure an even, natural-looking tan that lasts.
+
+Section 1: Preparation
+Step 1. Exfoliate Your Skin
+Why: Dead skin cells can cause an uneven tan, making some areas darker than others. Exfoliating removes dead skin, creating a smooth canvas for self-
+2025-02-21 08:11:02,673 - INFO - Step 5510 - Loss: 1.7888, Load Balancing Loss: 0.0934
+2025-02-21 08:11:35,621 - INFO - Step 5520 - Loss: 2.2401, Load Balancing Loss: 0.0906
+2025-02-21 08:12:08,560 - INFO - Step 5530 - Loss: 2.3641, Load Balancing Loss: 0.0896
+2025-02-21 08:12:41,480 - INFO - Step 5540 - Loss: 2.2725, Load Balancing Loss: 0.0886
+2025-02-21 08:13:14,412 - INFO - Step 5550 - Loss: 1.9534, Load Balancing Loss: 0.0963
+2025-02-21 08:13:47,328 - INFO - Step 5560 - Loss: 2.4532, Load Balancing Loss: 0.0879
+2025-02-21 08:14:20,233 - INFO - Step 5570 - Loss: 1.8340, Load Balancing Loss: 0.0949
+2025-02-21 08:14:53,170 - INFO - Step 5580 - Loss: 2.8255, Load Balancing Loss: 0.0858
+2025-02-21 08:15:26,072 - INFO - Step 5590 - Loss: 2.2008, Load Balancing Loss: 0.0946
+2025-02-21 08:15:58,991 - INFO - Step 5600 - Loss: 1.4496, Load Balancing Loss: 0.0988
+2025-02-21 08:16:05,390 - INFO - Saved checkpoint at step 5600
+2025-02-21 08:16:05,395 - INFO - Sample generation:
+Welcome to our new chapter all about setting study goals! I'm sure many of you have had moments when you felt overwhelmed by your homework or struggled to focus during study sessions. That's why it's important to set achievable goals for yourself while studying. Today, we'll explore various techniques to help you create effective study objectives and improve your test-taking skills. Let's dive right in!
+
+**What does it mean to set study goals?**
+
+Setting study goals means deciding what you want to accomplish during your study time. This could range from learning a specific concept, completing a worksheet, or preparing for a big exam. By
+2025-02-21 08:16:38,746 - INFO - Step 5610 - Loss: 1.2656, Load Balancing Loss: 0.1058
+2025-02-21 08:17:11,698 - INFO - Step 5620 - Loss: 1.7465, Load Balancing Loss: 0.0979
+2025-02-21 08:17:44,601 - INFO - Step 5630 - Loss: 2.2026, Load Balancing Loss: 0.0886
+2025-02-21 08:18:17,513 - INFO - Step 5640 - Loss: 1.4310, Load Balancing Loss: 0.1042
+2025-02-21 08:18:50,444 - INFO - Step 5650 - Loss: 1.7705, Load Balancing Loss: 0.0957
+2025-02-21 08:19:23,352 - INFO - Step 5660 - Loss: 1.2430, Load Balancing Loss: 0.1006
+2025-02-21 08:19:56,258 - INFO - Step 5670 - Loss: 1.5263, Load Balancing Loss: 0.0925
+2025-02-21 08:20:29,190 - INFO - Step 5680 - Loss: 2.2543, Load Balancing Loss: 0.0871
+2025-02-21 08:21:02,128 - INFO - Step 5690 - Loss: 2.2571, Load Balancing Loss: 0.0860
+2025-02-21 08:21:35,045 - INFO - Step 5700 - Loss: 1.5921, Load Balancing Loss: 0.0942
+2025-02-21 08:21:41,419 - INFO - Saved checkpoint at step 5700
+2025-02-21 08:21:41,423 - INFO - Sample generation:
+ In this course unit, we will delve into the fascinating world of dialects and regional languages within the context of Young Adult Nonfiction and Language Arts. Our focus will be on how authors use dialects and regional languages to enhance their stories and convey meaning more effectively. Specifically, we will analyze how Tim O'Brien uses regional language in his book "The Things They Carried" to add authenticity and depth to the characters' voices and experiences.
+
+To begin, let us define what we mean by dialects and regional languages. Dialects are varieties of language that are specific to certain regions, social groups, or communities. These variations may include differences in
+2025-02-21 08:22:14,463 - INFO - Step 5710 - Loss: 1.4911, Load Balancing Loss: 0.0966
+2025-02-21 08:22:47,386 - INFO - Step 5720 - Loss: 2.8439, Load Balancing Loss: 0.0870
+2025-02-21 08:23:20,290 - INFO - Step 5730 - Loss: 1.4075, Load Balancing Loss: 0.1013
+2025-02-21 08:23:53,222 - INFO - Step 5740 - Loss: 0.9134, Load Balancing Loss: 0.1020
+2025-02-21 08:24:26,134 - INFO - Step 5750 - Loss: 2.3121, Load Balancing Loss: 0.0928
+2025-02-21 08:24:59,075 - INFO - Step 5760 - Loss: 1.4742, Load Balancing Loss: 0.0988
+2025-02-21 08:25:31,987 - INFO - Step 5770 - Loss: 1.8630, Load Balancing Loss: 0.0884
+2025-02-21 08:26:04,922 - INFO - Step 5780 - Loss: 1.9167, Load Balancing Loss: 0.0923
+2025-02-21 08:26:37,855 - INFO - Step 5790 - Loss: 1.6995, Load Balancing Loss: 0.0930
+2025-02-21 08:27:10,815 - INFO - Step 5800 - Loss: 1.8149, Load Balancing Loss: 0.0911
+2025-02-21 08:27:17,098 - INFO - Saved checkpoint at step 5800
+2025-02-21 08:27:17,102 - INFO - Sample generation:
+## Understanding the Earth Model in Python
+
+In this section, we will explore the Earth model in Python, which is a type of machine learning algorithm used for regression tasks. We will also delve into the process of registering input sizes, symbols, and predict and transform functions for the Earth model.
+
+### Importing Necessary Libraries
+
+Before we begin, let's ensure we have the necessary libraries installed and imported.
+
+```python
+!pip install pyearth
+```
+
+```python
+from ..input_size import register_input_size
+from pyearth.earth import Earth
+from pyearth.export
+2025-02-21 08:27:50,120 - INFO - Step 5810 - Loss: 1.6536, Load Balancing Loss: 0.1011
+2025-02-21 08:28:23,054 - INFO - Step 5820 - Loss: 1.9974, Load Balancing Loss: 0.0897
+2025-02-21 08:28:55,996 - INFO - Step 5830 - Loss: 3.0472, Load Balancing Loss: 0.0871
+2025-02-21 08:29:28,937 - INFO - Step 5840 - Loss: 1.5087, Load Balancing Loss: 0.0959
+2025-02-21 08:30:01,727 - INFO - Step 5850 - Loss: 1.7237, Load Balancing Loss: 0.0957
+2025-02-21 08:30:34,547 - INFO - Step 5860 - Loss: 2.6507, Load Balancing Loss: 0.0893
+2025-02-21 08:31:07,376 - INFO - Step 5870 - Loss: 1.6828, Load Balancing Loss: 0.0945
+2025-02-21 08:31:40,188 - INFO - Step 5880 - Loss: 1.7897, Load Balancing Loss: 0.1018
+2025-02-21 08:32:10,584 - INFO - Step 5890 - Loss: 4.6600, Load Balancing Loss: 0.1055
+2025-02-21 08:32:43,387 - INFO - Step 5900 - Loss: 1.5693, Load Balancing Loss: 0.1003
+2025-02-21 08:32:49,752 - INFO - Saved checkpoint at step 5900
+2025-02-21 08:32:49,756 - INFO - Sample generation:
+ Welcome to our course unit all about exploring the world of vegan cooking! Have you ever heard of veganism before? It's a way of living where people choose to exclude meat, eggs, dairy products, and other animal-derived ingredients from their diet. Instead, they focus on consuming plant-based foods like fruits, vegetables, grains, legumes, nuts, and seeds.
+
+Now, you might think that following a vegan diet means giving up all your favorite dishes. But don't worry - there are so many delicious and creative ways to enjoy plant-based meals! That's what we'll be learning about in this course unit.
+2025-02-21 08:33:22,693 - INFO - Step 5910 - Loss: 2.0184, Load Balancing Loss: 0.0962
+2025-02-21 08:33:55,478 - INFO - Step 5920 - Loss: 1.7230, Load Balancing Loss: 0.1004
+2025-02-21 08:34:28,289 - INFO - Step 5930 - Loss: 2.0100, Load Balancing Loss: 0.0922
+2025-02-21 08:35:01,100 - INFO - Step 5940 - Loss: 2.4219, Load Balancing Loss: 0.0900
+2025-02-21 08:35:33,885 - INFO - Step 5950 - Loss: 1.8757, Load Balancing Loss: 0.0953
+2025-02-21 08:36:06,699 - INFO - Step 5960 - Loss: 1.6970, Load Balancing Loss: 0.0970
+2025-02-21 08:36:39,543 - INFO - Step 5970 - Loss: 1.5299, Load Balancing Loss: 0.1045
+2025-02-21 08:37:12,372 - INFO - Step 5980 - Loss: 2.4708, Load Balancing Loss: 0.0903
+2025-02-21 08:37:45,164 - INFO - Step 5990 - Loss: 1.8108, Load Balancing Loss: 0.1017
+2025-02-21 08:38:17,973 - INFO - Step 6000 - Loss: 1.9803, Load Balancing Loss: 0.0958
+2025-02-21 08:38:24,435 - INFO - Saved checkpoint at step 6000
+2025-02-21 08:38:24,438 - INFO - Sample generation:
+ 7.2 Types of Reference
+
+In our exploration of discourse structure, we now turn to the crucial concept of reference – the way speakers and writers use language to refer to entities, concepts, or experiences beyond the immediate context of their utterance or text. Understanding how reference works allows us to appreciate the intricacy with which people communicate about complex ideas, as well as develop strategies for effective communication in academic, professional, and personal settings. After defining reference in section 7.1, this section delves into various types of reference and their implications for building coherent discourse.
+
+Anaphoric Reference
+-------------------
+
+An
+2025-02-21 08:38:57,437 - INFO - Step 6010 - Loss: 1.6238, Load Balancing Loss: 0.0966
+2025-02-21 08:39:30,246 - INFO - Step 6020 - Loss: 2.7729, Load Balancing Loss: 0.1006
+2025-02-21 08:40:03,090 - INFO - Step 6030 - Loss: 2.3316, Load Balancing Loss: 0.0998
+2025-02-21 08:40:35,923 - INFO - Step 6040 - Loss: 2.1629, Load Balancing Loss: 0.1007
+2025-02-21 08:41:08,762 - INFO - Step 6050 - Loss: 2.4495, Load Balancing Loss: 0.0902
+2025-02-21 08:41:41,586 - INFO - Step 6060 - Loss: 1.3619, Load Balancing Loss: 0.1005
+2025-02-21 08:42:14,412 - INFO - Step 6070 - Loss: 1.6036, Load Balancing Loss: 0.1033
+2025-02-21 08:42:47,241 - INFO - Step 6080 - Loss: 2.1125, Load Balancing Loss: 0.0964
+2025-02-21 08:43:20,048 - INFO - Step 6090 - Loss: 1.1269, Load Balancing Loss: 0.1027
+2025-02-21 08:43:52,842 - INFO - Step 6100 - Loss: 1.7285, Load Balancing Loss: 0.0946
+2025-02-21 08:43:59,189 - INFO - Saved checkpoint at step 6100
+2025-02-21 08:43:59,193 - INFO - Sample generation:
+ A few years ago, I found myself deeply immersed in the niche interest of learning traditional Indian culinary practices. As an amateur chef from the United States, I had always been fascinated by the complex flavors and techniques that defined Indian cuisine. In particular, I was intrigued by the impact of regional climate and geography on the availability and taste of various ingredients.
+
+One day, while browsing through r/IndianFood, I stumbled upon a post asking for advice on recreating a Northern Indian dish at home using locally sourced produce. This sparked my curiosity, and I decided to embark on a journey to understand the nuances of Northern Indian cuisine better. Little
+2025-02-21 08:44:32,113 - INFO - Step 6110 - Loss: 2.3560, Load Balancing Loss: 0.0942
+2025-02-21 08:45:04,942 - INFO - Step 6120 - Loss: 2.9604, Load Balancing Loss: 0.0909
+2025-02-21 08:45:37,728 - INFO - Step 6130 - Loss: 0.7516, Load Balancing Loss: 0.1064
+2025-02-21 08:46:10,523 - INFO - Step 6140 - Loss: 1.2108, Load Balancing Loss: 0.1001
+2025-02-21 08:46:43,375 - INFO - Step 6150 - Loss: 1.5754, Load Balancing Loss: 0.0952
+2025-02-21 08:47:16,201 - INFO - Step 6160 - Loss: 1.7645, Load Balancing Loss: 0.1004
+2025-02-21 08:47:48,982 - INFO - Step 6170 - Loss: 1.6643, Load Balancing Loss: 0.1025
+2025-02-21 08:48:21,791 - INFO - Step 6180 - Loss: 1.4832, Load Balancing Loss: 0.1028
+2025-02-21 08:48:54,625 - INFO - Step 6190 - Loss: 1.9537, Load Balancing Loss: 0.0935
+2025-02-21 08:49:27,418 - INFO - Step 6200 - Loss: 1.1580, Load Balancing Loss: 0.0986
+2025-02-21 08:49:33,710 - INFO - Saved checkpoint at step 6200
+2025-02-21 08:49:33,714 - INFO - Sample generation:
+ Chapter 16: Journey into Space Science - The Exciting World of Cosmic Rays!
+
+Have you ever looked up at the night sky and wondered what's out there? Or perhaps pondered if we could study objects so far away from Earth? Well, let me tell you about an incredible field called space science, where people just like you work hard every day to explore the mysteries beyond our atmosphere!
+
+Space scientists use special tools and equipment to learn more about celestial bodies, such as stars, planets, and even stuff flying around in between them – known as cosmic rays! These particles travel billions of miles through space before reaching us
+2025-02-21 08:50:06,976 - INFO - Step 6210 - Loss: 1.6683, Load Balancing Loss: 0.1040
+2025-02-21 08:50:39,768 - INFO - Step 6220 - Loss: 0.9539, Load Balancing Loss: 0.1152
+2025-02-21 08:51:12,579 - INFO - Step 6230 - Loss: 1.5899, Load Balancing Loss: 0.1033
+2025-02-21 08:51:45,383 - INFO - Step 6240 - Loss: 2.5544, Load Balancing Loss: 0.0952
+2025-02-21 08:52:18,189 - INFO - Step 6250 - Loss: 1.0613, Load Balancing Loss: 0.1069
+2025-02-21 08:52:51,004 - INFO - Step 6260 - Loss: 1.3708, Load Balancing Loss: 0.1054
+2025-02-21 08:53:23,838 - INFO - Step 6270 - Loss: 2.1066, Load Balancing Loss: 0.0977
+2025-02-21 08:53:56,632 - INFO - Step 6280 - Loss: 1.3011, Load Balancing Loss: 0.1001
+2025-02-21 08:54:29,437 - INFO - Step 6290 - Loss: 2.4467, Load Balancing Loss: 0.0978
+2025-02-21 08:55:02,241 - INFO - Step 6300 - Loss: 2.1233, Load Balancing Loss: 0.0958
+2025-02-21 08:55:08,584 - INFO - Saved checkpoint at step 6300
+2025-02-21 08:55:08,587 - INFO - Sample generation:
+Title: How to Trade Effectively on Animal Jam
+
+Animal Jam is an online playground where players can adopt pets, create virtual spaces, participate in activities, and trade items with other users. This wikiHow will guide you through the process of trading effectively on Animal Jama, helping you make successful trades while avoiding scams.
+
+**Step 1:** Familiarize yourself with the Trading System
+Before diving into trading, understand that Animal Jam has specific rules regarding what may be traded and under what conditions. Be sure to read and comprehend these guidelines to avoid any potential issues during your transactions. Some important aspects include:
+
+* Players must be
+2025-02-21 08:55:41,511 - INFO - Step 6310 - Loss: 1.1425, Load Balancing Loss: 0.0994
+2025-02-21 08:56:14,320 - INFO - Step 6320 - Loss: 2.0394, Load Balancing Loss: 0.0992
+2025-02-21 08:56:47,142 - INFO - Step 6330 - Loss: 1.3318, Load Balancing Loss: 0.0996
+2025-02-21 08:57:19,579 - INFO - Step 6340 - Loss: 1.3505, Load Balancing Loss: 0.1083
+2025-02-21 08:57:52,368 - INFO - Step 6350 - Loss: 1.6079, Load Balancing Loss: 0.1040
+2025-02-21 08:58:25,164 - INFO - Step 6360 - Loss: 1.1062, Load Balancing Loss: 0.1074
+2025-02-21 08:58:57,994 - INFO - Step 6370 - Loss: 2.1784, Load Balancing Loss: 0.1024
+2025-02-21 08:59:30,801 - INFO - Step 6380 - Loss: 1.8450, Load Balancing Loss: 0.0978
+2025-02-21 09:00:03,602 - INFO - Step 6390 - Loss: 1.4995, Load Balancing Loss: 0.0978
+2025-02-21 09:00:36,419 - INFO - Step 6400 - Loss: 0.9143, Load Balancing Loss: 0.1050
+2025-02-21 09:00:42,716 - INFO - Saved checkpoint at step 6400
+2025-02-21 09:00:42,721 - INFO - Sample generation:
+ Welcome to our exploration of Brazilian Modernism! This art movement began in the early 20th century when brave artists decided to create something new and different. They wanted to celebrate Brazil's unique culture, history, and people through their artwork. Let's dive into some cool stories and discover how these daring creators changed the world of art forever!
+
+First, let's imagine you are back in time visiting Brazil around the 1920s. You see beautiful landscapes filled with vibrant colors, fascinating plants, and exotic animals. But wait, there's more! People gather together during lively festivals, dancing and singing to rhythmic music
+2025-02-21 09:01:15,947 - INFO - Step 6410 - Loss: 2.2186, Load Balancing Loss: 0.0952
+2025-02-21 09:01:48,769 - INFO - Step 6420 - Loss: 1.3630, Load Balancing Loss: 0.1027
+2025-02-21 09:02:21,567 - INFO - Step 6430 - Loss: 1.2561, Load Balancing Loss: 0.0997
+2025-02-21 09:02:54,375 - INFO - Step 6440 - Loss: 2.5716, Load Balancing Loss: 0.0882
+2025-02-21 09:03:27,173 - INFO - Step 6450 - Loss: 2.1620, Load Balancing Loss: 0.1030
+2025-02-21 09:03:59,963 - INFO - Step 6460 - Loss: 2.0136, Load Balancing Loss: 0.0918
+2025-02-21 09:04:32,769 - INFO - Step 6470 - Loss: 2.5470, Load Balancing Loss: 0.1075
+2025-02-21 09:05:05,584 - INFO - Step 6480 - Loss: 2.3251, Load Balancing Loss: 0.0935
+2025-02-21 09:05:38,371 - INFO - Step 6490 - Loss: 1.1024, Load Balancing Loss: 0.1026
+2025-02-21 09:06:11,157 - INFO - Step 6500 - Loss: 1.8826, Load Balancing Loss: 0.1053
+2025-02-21 09:06:17,580 - INFO - Saved checkpoint at step 6500
+2025-02-21 09:06:17,585 - INFO - Sample generation:
+ Title: Understanding Tuberculosis (TB): A Preventable and Curable Disease
+
+Introduction:
+Hey there! Today we're going to learn about a disease called tuberculosis, also known as TB. It's essential to understand what it is, how it spreads, and how we can prevent and cure it. Don't worry - by the end of this section, you'll be an expert on TB!
+
+What is Tuberculosis?
+Tuberculosis, or TB, is a bacterial infection that usually affects the lungs but can impact other parts of the body like the brain, kidneys, or spine. When someone has TB
+2025-02-21 09:06:50,855 - INFO - Step 6510 - Loss: 0.9765, Load Balancing Loss: 0.1049
+2025-02-21 09:07:23,692 - INFO - Step 6520 - Loss: 1.7267, Load Balancing Loss: 0.0957
+2025-02-21 09:07:56,504 - INFO - Step 6530 - Loss: 1.4090, Load Balancing Loss: 0.0991
+2025-02-21 09:08:29,323 - INFO - Step 6540 - Loss: 1.3995, Load Balancing Loss: 0.0998
+2025-02-21 09:09:02,173 - INFO - Step 6550 - Loss: 1.2149, Load Balancing Loss: 0.0974
+2025-02-21 09:09:35,002 - INFO - Step 6560 - Loss: 0.6208, Load Balancing Loss: 0.1003
+2025-02-21 09:10:07,808 - INFO - Step 6570 - Loss: 1.4264, Load Balancing Loss: 0.1035
+2025-02-21 09:10:40,622 - INFO - Step 6580 - Loss: 1.5619, Load Balancing Loss: 0.0933
+2025-02-21 09:11:13,409 - INFO - Step 6590 - Loss: 2.8084, Load Balancing Loss: 0.0998
+2025-02-21 09:11:46,217 - INFO - Step 6600 - Loss: 1.6750, Load Balancing Loss: 0.0990
+2025-02-21 09:11:52,479 - INFO - Saved checkpoint at step 6600
+2025-02-21 09:11:52,483 - INFO - Sample generation:
+ Welcome to the world of macOS! You might have heard about different types of computer systems like Windows or Chrome OS. But did you know that there's a special operating system just for Apple computers called macOS? Today, let's explore some cool accessibility features built into one version of macOS called Catalina. These features help people with disabilities use their computers more easily.
+
+Imagine you love playing video games but sometimes find them hard to see because of small font sizes. Or maybe you have a friend who has difficulty hearing sounds while watching videos on their computer. Guess what? There are tools within macOS Catalina that can
+2025-02-21 09:12:25,518 - INFO - Step 6610 - Loss: 2.9285, Load Balancing Loss: 0.0954
+2025-02-21 09:12:58,353 - INFO - Step 6620 - Loss: 1.8229, Load Balancing Loss: 0.0976
+2025-02-21 09:13:31,169 - INFO - Step 6630 - Loss: 1.4956, Load Balancing Loss: 0.1019
+2025-02-21 09:14:03,981 - INFO - Step 6640 - Loss: 2.3412, Load Balancing Loss: 0.0934
+2025-02-21 09:14:36,786 - INFO - Step 6650 - Loss: 1.9479, Load Balancing Loss: 0.0969
+2025-02-21 09:15:09,597 - INFO - Step 6660 - Loss: 2.6878, Load Balancing Loss: 0.0900
+2025-02-21 09:15:42,384 - INFO - Step 6670 - Loss: 2.2691, Load Balancing Loss: 0.0964
+2025-02-21 09:16:15,198 - INFO - Step 6680 - Loss: 2.0473, Load Balancing Loss: 0.0913
+2025-02-21 09:16:48,029 - INFO - Step 6690 - Loss: 2.0224, Load Balancing Loss: 0.0934
+2025-02-21 09:17:20,862 - INFO - Step 6700 - Loss: 2.0038, Load Balancing Loss: 0.0937
+2025-02-21 09:17:27,267 - INFO - Saved checkpoint at step 6700
+2025-02-21 09:17:27,271 - INFO - Sample generation:
+ 6.1 The Relationship Between Violence and Religion
+
+As we delve deeper into the realm of political theology, it becomes increasingly important to examine the complex relationship between violence and religion. This connection has been explored by many thinkers throughout history, perhaps most notably by French historian and philosopher René Girard. In his groundbreaking work, "Violence and the Sacred," Girard argues that human culture and society are fundamentally rooted in acts of violence, which are often intertwined with religious beliefs and practices.
+
+To understand Girard's theory, let us begin by examining the concept of mimetic desire. According to Girard, humans naturally imitate
+2025-02-21 09:18:00,437 - INFO - Step 6710 - Loss: 1.4828, Load Balancing Loss: 0.1081
+2025-02-21 09:18:33,251 - INFO - Step 6720 - Loss: 1.1702, Load Balancing Loss: 0.0969
+2025-02-21 09:19:06,088 - INFO - Step 6730 - Loss: 1.0156, Load Balancing Loss: 0.1058
+2025-02-21 09:19:38,891 - INFO - Step 6740 - Loss: 0.7348, Load Balancing Loss: 0.0996
+2025-02-21 09:20:11,694 - INFO - Step 6750 - Loss: 0.7651, Load Balancing Loss: 0.1066
+2025-02-21 09:20:44,510 - INFO - Step 6760 - Loss: 1.5026, Load Balancing Loss: 0.1031
+2025-02-21 09:21:17,315 - INFO - Step 6770 - Loss: 1.3926, Load Balancing Loss: 0.1009
+2025-02-21 09:21:50,110 - INFO - Step 6780 - Loss: 2.5774, Load Balancing Loss: 0.1010
+2025-02-21 09:22:22,935 - INFO - Step 6790 - Loss: 1.1605, Load Balancing Loss: 0.0978
+2025-02-21 09:22:55,752 - INFO - Step 6800 - Loss: 2.3449, Load Balancing Loss: 0.0941
+2025-02-21 09:23:02,110 - INFO - Saved checkpoint at step 6800
+2025-02-21 09:23:02,114 - INFO - Sample generation:
+ I never thought I would find myself up at 2 AM, arguing about the best way to sort an array of fruits in reverse alphabetical order on a random Reddit thread. But here we were, a group of developers from all corners of the world, passionately debating every single line of code. It was glorious.
+
+It started out simple enough - just another programming question posted on /r/learnprogramming. Someone asked how they could modify a given piece of PHP code to sort an array of fruits in reverse alphabetical order and return the element at index 1. Easy peasy lemon squeezy, right? Well, things took an
+2025-02-21 09:23:35,102 - INFO - Step 6810 - Loss: 1.3932, Load Balancing Loss: 0.0985
+2025-02-21 09:24:07,864 - INFO - Step 6820 - Loss: 1.0038, Load Balancing Loss: 0.1001
+2025-02-21 09:24:40,656 - INFO - Step 6830 - Loss: 2.1589, Load Balancing Loss: 0.0907
+2025-02-21 09:25:13,475 - INFO - Step 6840 - Loss: 1.4317, Load Balancing Loss: 0.1006
+2025-02-21 09:25:46,299 - INFO - Step 6850 - Loss: 1.3405, Load Balancing Loss: 0.0949
+2025-02-21 09:26:19,129 - INFO - Step 6860 - Loss: 1.4480, Load Balancing Loss: 0.0937
+2025-02-21 09:26:51,936 - INFO - Step 6870 - Loss: 1.1553, Load Balancing Loss: 0.1034
+2025-02-21 09:27:24,761 - INFO - Step 6880 - Loss: 1.0848, Load Balancing Loss: 0.1017
+2025-02-21 09:27:57,570 - INFO - Step 6890 - Loss: 1.5802, Load Balancing Loss: 0.0979
+2025-02-21 09:28:30,383 - INFO - Step 6900 - Loss: 1.2817, Load Balancing Loss: 0.1087
+2025-02-21 09:28:36,778 - INFO - Saved checkpoint at step 6900
+2025-02-21 09:28:36,783 - INFO - Sample generation:
+ Welcome to Sub-Unit 3.1: The Patriarchs! In this exciting section of our journey through the Hebrew Bible, we'll be exploring the lives and stories of three important figures from ancient Israelite history: Abraham, Isaac, and Jacob. These men are known as the patriarchs because they were the founding fathers of the Israelites, passing down traditions and beliefs that would shape the nation for generations to come. So grab your time machine hats and let's get started!
+
+First up, we have Abraham. Think of him like the great-great-grandfather of all the Israelites. God made a special promise to Abraham (
+2025-02-21 09:29:10,025 - INFO - Step 6910 - Loss: 1.7972, Load Balancing Loss: 0.0964
+2025-02-21 09:29:42,868 - INFO - Step 6920 - Loss: 1.1937, Load Balancing Loss: 0.1029
+2025-02-21 09:30:15,681 - INFO - Step 6930 - Loss: 1.9491, Load Balancing Loss: 0.0962
+2025-02-21 09:30:48,509 - INFO - Step 6940 - Loss: 1.7234, Load Balancing Loss: 0.0963
+2025-02-21 09:31:21,301 - INFO - Step 6950 - Loss: 1.8975, Load Balancing Loss: 0.0940
+2025-02-21 09:31:54,137 - INFO - Step 6960 - Loss: 0.7473, Load Balancing Loss: 0.1107
+2025-02-21 09:32:26,934 - INFO - Step 6970 - Loss: 0.6538, Load Balancing Loss: 0.1027
+2025-02-21 09:32:59,773 - INFO - Step 6980 - Loss: 1.6439, Load Balancing Loss: 0.0978
+2025-02-21 09:33:32,576 - INFO - Step 6990 - Loss: 1.1185, Load Balancing Loss: 0.0999
+2025-02-21 09:34:05,364 - INFO - Step 7000 - Loss: 1.9883, Load Balancing Loss: 0.0928
+2025-02-21 09:34:11,652 - INFO - Saved checkpoint at step 7000
+2025-02-21 09:34:11,656 - INFO - Sample generation:
+ Chapter 10: Navigating College Recruiting and Scholarship Opportunities in Football
+
+I. Introduction
+A. Importance of pursuing higher education while playing football at the collegiate level
+B. Overview of the college recruiting process and scholarship opportunities
+C. Connection between athletics and academics in securing financial aid packages
+
+II. Understanding Financial Aid Packages
+A. Definition of financial aid package and its components (gift vs. self-help)
+B. Explanation of different types of financial aid: need-based and merit-based
+C. Federal and State funding options for athletes
+D. Institutional scholarships offered by colleges and
+2025-02-21 09:34:44,915 - INFO - Step 7010 - Loss: 1.7560, Load Balancing Loss: 0.1010
+2025-02-21 09:35:17,721 - INFO - Step 7020 - Loss: 0.8029, Load Balancing Loss: 0.0950
+2025-02-21 09:35:50,499 - INFO - Step 7030 - Loss: 1.0445, Load Balancing Loss: 0.0999
+2025-02-21 09:36:23,293 - INFO - Step 7040 - Loss: 1.0586, Load Balancing Loss: 0.1021
+2025-02-21 09:36:56,125 - INFO - Step 7050 - Loss: 0.9615, Load Balancing Loss: 0.1041
+2025-02-21 09:37:28,927 - INFO - Step 7060 - Loss: 0.8093, Load Balancing Loss: 0.1003
+2025-02-21 09:38:01,748 - INFO - Step 7070 - Loss: 1.6503, Load Balancing Loss: 0.0959
+2025-02-21 09:38:34,638 - INFO - Step 7080 - Loss: 0.4531, Load Balancing Loss: 0.1125
+2025-02-21 09:39:07,492 - INFO - Step 7090 - Loss: 1.2817, Load Balancing Loss: 0.1009
+2025-02-21 09:39:40,292 - INFO - Step 7100 - Loss: 0.9689, Load Balancing Loss: 0.1087
+2025-02-21 09:39:46,579 - INFO - Saved checkpoint at step 7100
+2025-02-21 09:40:19,603 - INFO - Step 7110 - Loss: 1.3565, Load Balancing Loss: 0.0981
+2025-02-21 09:40:52,447 - INFO - Step 7120 - Loss: 1.1920, Load Balancing Loss: 0.0941
+2025-02-21 09:41:25,277 - INFO - Step 7130 - Loss: 0.9778, Load Balancing Loss: 0.0996
+2025-02-21 09:41:58,117 - INFO - Step 7140 - Loss: 0.4914, Load Balancing Loss: 0.1110
+2025-02-21 09:42:30,893 - INFO - Step 7150 - Loss: 1.4558, Load Balancing Loss: 0.0961
+2025-02-21 09:43:03,713 - INFO - Step 7160 - Loss: 1.3720, Load Balancing Loss: 0.0977
+2025-02-21 09:43:36,493 - INFO - Step 7170 - Loss: 1.4462, Load Balancing Loss: 0.1019
+2025-02-21 09:44:09,289 - INFO - Step 7180 - Loss: 0.4686, Load Balancing Loss: 0.1061
+2025-02-21 09:44:42,113 - INFO - Step 7190 - Loss: 0.5785, Load Balancing Loss: 0.1006
+2025-02-21 09:45:14,919 - INFO - Step 7200 - Loss: 0.7093, Load Balancing Loss: 0.1032
+2025-02-21 09:45:21,286 - INFO - Saved checkpoint at step 7200
+2025-02-21 09:45:21,290 - INFO - Sample generation:
+ Chapter Title: Becoming Better Teachers: How Educators Learn and Grow
+
+Introduction:
+Have you ever thought about what it takes to become a great teacher? It's not just about knowing your subjects; there's so much more! Great teachers are always learning, growing, and finding ways to help their students succeed. This process is called professional development, which refers to the activities teachers engage in to continually improve their teaching skills and knowledge. Let's dive into the world of teacher professional development and see how educators work hard to provide the best possible education for their students like you!
+
+Section 1: Learning From Each Other - Collaborative Works
+2025-02-21 09:45:54,272 - INFO - Step 7210 - Loss: 1.2411, Load Balancing Loss: 0.0933
+2025-02-21 09:46:27,062 - INFO - Step 7220 - Loss: 1.8788, Load Balancing Loss: 0.1059
+2025-02-21 09:46:59,883 - INFO - Step 7230 - Loss: 1.0361, Load Balancing Loss: 0.1029
+2025-02-21 09:47:32,673 - INFO - Step 7240 - Loss: 1.4558, Load Balancing Loss: 0.0929
+2025-02-21 09:48:05,490 - INFO - Step 7250 - Loss: 1.7648, Load Balancing Loss: 0.0932
+2025-02-21 09:48:38,282 - INFO - Step 7260 - Loss: 1.0008, Load Balancing Loss: 0.0978
+2025-02-21 09:49:11,083 - INFO - Step 7270 - Loss: 1.4528, Load Balancing Loss: 0.0975
+2025-02-21 09:49:43,863 - INFO - Step 7280 - Loss: 1.2250, Load Balancing Loss: 0.0949
+2025-02-21 09:50:16,660 - INFO - Step 7290 - Loss: 1.3064, Load Balancing Loss: 0.0929
+2025-02-21 09:50:49,485 - INFO - Step 7300 - Loss: 1.3360, Load Balancing Loss: 0.0949
+2025-02-21 09:50:55,910 - INFO - Saved checkpoint at step 7300
+2025-02-21 09:50:55,914 - INFO - Sample generation:
+Chapter 9: An Introduction to Supernatural Thrillers and Paranormal Investigations
+
+Have you ever read a thrilling mystery story where the detective must solve a crime with supernatural elements? This type of fiction is called a paranormal thriller, which combines traditional thriller elements such as suspense, action, and investigation with supernatural events like ghost sightings, magic, or unexplained phenomena. Let's dive into this fascinating subgenre of fiction!
+
+Section 1: What Makes a Story Paranormal?
+
+Paranormal stories involve things that cannot be explained by science or logic. These might include:
+
+* Ghostly apparitions
+2025-02-21 09:51:28,830 - INFO - Step 7310 - Loss: 0.7854, Load Balancing Loss: 0.1014
+2025-02-21 09:52:01,638 - INFO - Step 7320 - Loss: 0.9827, Load Balancing Loss: 0.1009
+2025-02-21 09:52:34,456 - INFO - Step 7330 - Loss: 1.5007, Load Balancing Loss: 0.0925
+2025-02-21 09:53:07,276 - INFO - Step 7340 - Loss: 1.3704, Load Balancing Loss: 0.0967
+2025-02-21 09:53:40,101 - INFO - Step 7350 - Loss: 1.5498, Load Balancing Loss: 0.0903
+2025-02-21 09:54:13,076 - INFO - Step 7360 - Loss: 0.7857, Load Balancing Loss: 0.1049
+2025-02-21 09:54:45,843 - INFO - Step 7370 - Loss: 0.7910, Load Balancing Loss: 0.1001
+2025-02-21 09:55:18,600 - INFO - Step 7380 - Loss: 1.2345, Load Balancing Loss: 0.0901
+2025-02-21 09:55:51,323 - INFO - Step 7390 - Loss: 0.9741, Load Balancing Loss: 0.0957
+2025-02-21 09:56:24,090 - INFO - Step 7400 - Loss: 1.1934, Load Balancing Loss: 0.0933
+2025-02-21 09:56:30,625 - INFO - Saved checkpoint at step 7400
+2025-02-21 09:56:30,626 - INFO - Sample generation:
+ In a bustling classroom full of curious minds, lived three best friends – Keith, Larry, and Danny. They were always eager to learn new things and loved solving puzzles together. One day, their teacher gave them a tricky math problem. “Keith got 3 points on his math test,” she said. “Larry scored ‘x’ times as many marks as Keith, and Danny scored 5 more marks than Larry. Can you find out how many marks they all scored together?” She smiled mischievously, knowing this would challenge her little Einsteins.
+
+As soon as the kids heard 'x,'
+2025-02-21 09:57:03,878 - INFO - Step 7410 - Loss: 1.2815, Load Balancing Loss: 0.0964
+2025-02-21 09:57:36,629 - INFO - Step 7420 - Loss: 0.8990, Load Balancing Loss: 0.0942
+2025-02-21 09:58:09,390 - INFO - Step 7430 - Loss: 1.2743, Load Balancing Loss: 0.0957
+2025-02-21 09:58:42,182 - INFO - Step 7440 - Loss: 1.3586, Load Balancing Loss: 0.0940
+2025-02-21 09:59:14,965 - INFO - Step 7450 - Loss: 0.8717, Load Balancing Loss: 0.0997
+2025-02-21 09:59:47,748 - INFO - Step 7460 - Loss: 1.1171, Load Balancing Loss: 0.0919
+2025-02-21 10:00:20,514 - INFO - Step 7470 - Loss: 0.9900, Load Balancing Loss: 0.0983
+2025-02-21 10:00:53,264 - INFO - Step 7480 - Loss: 1.1459, Load Balancing Loss: 0.0998
+2025-02-21 10:01:26,047 - INFO - Step 7490 - Loss: 0.7499, Load Balancing Loss: 0.1002
+2025-02-21 10:01:58,810 - INFO - Step 7500 - Loss: 0.8794, Load Balancing Loss: 0.0956
+2025-02-21 10:02:05,152 - INFO - Saved checkpoint at step 7500
+2025-02-21 10:02:05,152 - INFO - Sample generation:
+ Style and Theme Development in Flower Arranging
+
+Flower arranging is a form of art that combines creativity, horticulture, and design principles to create visually stunning displays. As with any other art form, developing a unique style and theme is essential to stand out and express oneself through flower arrangements. This chapter delves into the process of style and theme development in flower arranging, highlighting its importance and offering practical tips for college students.
+
+I. The Importance of Developing a Personal Style
+
+A. Expression of Individuality
+
+In today's world, personal expression is vital to establishing a sense of self and connecting with others. In flower arranging
+2025-02-21 10:02:38,082 - INFO - Step 7510 - Loss: 0.9983, Load Balancing Loss: 0.1024
+2025-02-21 10:03:10,895 - INFO - Step 7520 - Loss: 1.0985, Load Balancing Loss: 0.0994
+2025-02-21 10:03:43,641 - INFO - Step 7530 - Loss: 0.5522, Load Balancing Loss: 0.1001
+2025-02-21 10:04:16,403 - INFO - Step 7540 - Loss: 1.0028, Load Balancing Loss: 0.0954
+2025-02-21 10:04:48,725 - INFO - Step 7550 - Loss: 0.9017, Load Balancing Loss: 0.1004
+2025-02-21 10:05:21,478 - INFO - Step 7560 - Loss: 0.3875, Load Balancing Loss: 0.1098
+2025-02-21 10:05:54,259 - INFO - Step 7570 - Loss: 0.6063, Load Balancing Loss: 0.1030
+2025-02-21 10:06:27,038 - INFO - Step 7580 - Loss: 0.8133, Load Balancing Loss: 0.1000
+2025-02-21 10:06:59,856 - INFO - Step 7590 - Loss: 0.7126, Load Balancing Loss: 0.0968
+2025-02-21 10:07:32,592 - INFO - Step 7600 - Loss: 1.3468, Load Balancing Loss: 0.0919
+2025-02-21 10:07:38,971 - INFO - Saved checkpoint at step 7600
+2025-02-21 10:07:38,981 - INFO - Sample generation:
+ Chapter X: The Intersection of Humor, Literary Form, and Economic Thought: Bastiat's Subversive Satire
+
+I. Introduction
+
+In exploring the rich tapestry of economic discourse, it becomes apparent that humor, literary form, and satire often play significant roles in shaping ideas and influencing debates. One such example can be found in the works of Frédéric Bastiat, a prominent nineteenth-century French economist known for his wit and biting sarcasm. In this chapter, we will examine how Bastiat employed these rhetorical tools in defense of free markets through an analysis of his lesser-known writings, drawing connections between historical context and
+2025-02-21 10:08:11,833 - INFO - Step 7610 - Loss: 0.8998, Load Balancing Loss: 0.0905
+2025-02-21 10:08:44,599 - INFO - Step 7620 - Loss: 0.8713, Load Balancing Loss: 0.1012
+2025-02-21 10:09:17,364 - INFO - Step 7630 - Loss: 0.4402, Load Balancing Loss: 0.1015
+2025-02-21 10:09:50,109 - INFO - Step 7640 - Loss: 0.4521, Load Balancing Loss: 0.1009
+2025-02-21 10:10:22,853 - INFO - Step 7650 - Loss: 0.3827, Load Balancing Loss: 0.1083
+2025-02-21 10:10:55,627 - INFO - Step 7660 - Loss: 0.7763, Load Balancing Loss: 0.0953
+2025-02-21 10:11:28,399 - INFO - Step 7670 - Loss: 1.1221, Load Balancing Loss: 0.0957
+2025-02-21 10:12:01,185 - INFO - Step 7680 - Loss: 0.4382, Load Balancing Loss: 0.0965
+2025-02-21 10:12:33,936 - INFO - Step 7690 - Loss: 0.8963, Load Balancing Loss: 0.0934
+2025-02-21 10:13:06,728 - INFO - Step 7700 - Loss: 0.7145, Load Balancing Loss: 0.1016
+2025-02-21 10:13:13,272 - INFO - Saved checkpoint at step 7700
+2025-02-21 10:13:13,274 - INFO - Sample generation:
+ Welcome, explorers! Get ready to embark on an incredible journey through time to the Age of Exploration, specifically during the fascinating period known as the Renaissance. This was a thrilling age when people dared to dream big, explore new lands, and create breathtaking art and literature. Today, we will dive into one such literary masterpiece - Dante's Lyric Poems.
+
+Imagine being transported back in time to medieval Italy, where you meet a brilliant poet named Dante Alighieri. He lived between 1265 and 1321, witnessing many changes and discoveries around him. As he grew up, he fell in love with poetry
+2025-02-21 10:13:46,144 - INFO - Step 7710 - Loss: 0.8406, Load Balancing Loss: 0.1020
+2025-02-21 10:14:18,898 - INFO - Step 7720 - Loss: 0.4834, Load Balancing Loss: 0.1002
+2025-02-21 10:14:51,638 - INFO - Step 7730 - Loss: 0.8870, Load Balancing Loss: 0.0967
+2025-02-21 10:15:24,418 - INFO - Step 7740 - Loss: 1.1425, Load Balancing Loss: 0.0910
+2025-02-21 10:15:57,220 - INFO - Step 7750 - Loss: 0.6840, Load Balancing Loss: 0.0907
+2025-02-21 10:16:29,967 - INFO - Step 7760 - Loss: 0.2544, Load Balancing Loss: 0.1071
+2025-02-21 10:17:02,750 - INFO - Step 7770 - Loss: 0.9016, Load Balancing Loss: 0.0910
+2025-02-21 10:17:35,535 - INFO - Step 7780 - Loss: 0.9824, Load Balancing Loss: 0.0979
+2025-02-21 10:18:08,327 - INFO - Step 7790 - Loss: 0.9460, Load Balancing Loss: 0.0954
+2025-02-21 10:18:41,055 - INFO - Step 7800 - Loss: 0.3875, Load Balancing Loss: 0.0996
+2025-02-21 10:18:47,510 - INFO - Saved checkpoint at step 7800
+2025-02-21 10:18:47,520 - INFO - Sample generation:
+ Chapter 7: Using Technology to Boost Your Brain Power
+
+Imagine having your very own learning companion that can help you solve tough math problems and even give you personalized homework assistance! Well, guess what? That kind of technology exists, and it's called "AI Learning Companions!" These nifty tools use artificial intelligence, which means they learn and adapt as they go along, just like humans do!
+
+So how does something like this work exactly? Let's break it down into simple terms. Imagine you have a question like "What's 32 x 45?" An AI Learning Companion would take a picture of
+2025-02-21 10:19:20,422 - INFO - Step 7810 - Loss: 0.4265, Load Balancing Loss: 0.1035
+2025-02-21 10:19:53,206 - INFO - Step 7820 - Loss: 1.1794, Load Balancing Loss: 0.0889
+2025-02-21 10:20:25,952 - INFO - Step 7830 - Loss: 0.8179, Load Balancing Loss: 0.0967
+2025-02-21 10:20:58,738 - INFO - Step 7840 - Loss: 0.8835, Load Balancing Loss: 0.0900
+2025-02-21 10:21:31,514 - INFO - Step 7850 - Loss: 0.7167, Load Balancing Loss: 0.0918
+2025-02-21 10:22:04,296 - INFO - Step 7860 - Loss: 0.6807, Load Balancing Loss: 0.0957
+2025-02-21 10:22:37,067 - INFO - Step 7870 - Loss: 0.8701, Load Balancing Loss: 0.1017
+2025-02-21 10:23:09,823 - INFO - Step 7880 - Loss: 0.5128, Load Balancing Loss: 0.1000
+2025-02-21 10:23:42,622 - INFO - Step 7890 - Loss: 0.1685, Load Balancing Loss: 0.1020
+2025-02-21 10:24:15,385 - INFO - Step 7900 - Loss: 0.9062, Load Balancing Loss: 0.0890
+2025-02-21 10:24:21,909 - INFO - Saved checkpoint at step 7900
+2025-02-21 10:24:21,915 - INFO - Sample generation:
+ A few years ago, I was working as a solicitor specializing in tax law at a mid-sized firm. Like many solicitors, I made sure to stay updated on all the latest changes in legislation and regulations affecting my area of expertise. I attended legal seminars, read journals, consulted with colleagues, and used online resources to ensure that my knowledge was current.
+
+One day, while discussing the recent overhaul of corporate tax laws with a longtime client, he mentioned his interest in amateur radio operation—a hobby I had never expected from him, given our usual conversations centered around balance sheets and financial statements. Curious, I asked if
+2025-02-21 10:24:54,898 - INFO - Step 7910 - Loss: 0.5046, Load Balancing Loss: 0.1029
+2025-02-21 10:25:27,720 - INFO - Step 7920 - Loss: 1.2538, Load Balancing Loss: 0.0992
+2025-02-21 10:26:00,474 - INFO - Step 7930 - Loss: 0.4753, Load Balancing Loss: 0.0982
+2025-02-21 10:26:33,421 - INFO - Step 7940 - Loss: 0.4510, Load Balancing Loss: 0.1003
+2025-02-21 10:27:06,223 - INFO - Step 7950 - Loss: 0.5805, Load Balancing Loss: 0.0989
+2025-02-21 10:27:38,977 - INFO - Step 7960 - Loss: 0.4989, Load Balancing Loss: 0.1007
+2025-02-21 10:28:11,711 - INFO - Step 7970 - Loss: 0.5936, Load Balancing Loss: 0.0982
+2025-02-21 10:28:44,475 - INFO - Step 7980 - Loss: 0.2996, Load Balancing Loss: 0.1055
+2025-02-21 10:29:17,257 - INFO - Step 7990 - Loss: 0.5778, Load Balancing Loss: 0.0895
+2025-02-21 10:29:50,169 - INFO - Step 8000 - Loss: 0.9217, Load Balancing Loss: 0.0920
+2025-02-21 10:29:55,685 - INFO - Saved checkpoint at step 8000
+2025-02-21 10:29:55,685 - INFO - Sample generation:
+ Chapter 10: Becoming an Internationally Recognized Chef: A Case Study of Chef John
+
+In today's culinary world, becoming an executive chef by the age of 24 is no small feat. It requires a combination of passion, hard work, talent, and education. In this chapter, we will explore the journey of Chef John, a graduate of the Culinary Arts Academy in Sweden, who was recently promoted to Executive Pastry Chef at the prestigious Hotel Schweizerhof Zermatt in Switzerland. We will examine the key factors that contributed to his rapid rise in the culinary world, including his educational background, hands-on
+2025-02-21 10:30:28,592 - INFO - Step 8010 - Loss: 0.4239, Load Balancing Loss: 0.1012
+2025-02-21 10:31:01,358 - INFO - Step 8020 - Loss: 0.5621, Load Balancing Loss: 0.0945
+2025-02-21 10:31:34,060 - INFO - Step 8030 - Loss: 0.3958, Load Balancing Loss: 0.0946
+2025-02-21 10:32:06,784 - INFO - Step 8040 - Loss: 0.6334, Load Balancing Loss: 0.0968
+2025-02-21 10:32:39,500 - INFO - Step 8050 - Loss: 1.2702, Load Balancing Loss: 0.0885
+2025-02-21 10:33:12,237 - INFO - Step 8060 - Loss: 0.8808, Load Balancing Loss: 0.0935
+2025-02-21 10:33:44,972 - INFO - Step 8070 - Loss: 0.8448, Load Balancing Loss: 0.0922
+2025-02-21 10:34:17,710 - INFO - Step 8080 - Loss: 0.5181, Load Balancing Loss: 0.0964
+2025-02-21 10:34:50,459 - INFO - Step 8090 - Loss: 0.2345, Load Balancing Loss: 0.0977
+2025-02-21 10:35:23,189 - INFO - Step 8100 - Loss: 0.4408, Load Balancing Loss: 0.1009
+2025-02-21 10:35:28,659 - INFO - Saved checkpoint at step 8100
+2025-02-21 10:35:28,669 - INFO - Sample generation:
+ Chapter 10: Interventional Radiology - A Superhero Team of Doctors and Machines
+
+Imagine you're not feeling well, and your parents take you to see a doctor. After checking you out, the doctor says they need to look inside your body to figure out what's wrong. But how can they do that without cutting you open? That's where our superhero team comes in! They are called Interventional Radiologists, and they use special machines to create pictures of the insides of people's bodies. These amazing doctors and their tools help find problems and even fix them without needing surgery!
+
+One cool thing these radi
+2025-02-21 10:36:01,608 - INFO - Step 8110 - Loss: 0.8059, Load Balancing Loss: 0.0958
+2025-02-21 10:36:34,338 - INFO - Step 8120 - Loss: 1.1835, Load Balancing Loss: 0.0965
+2025-02-21 10:37:07,059 - INFO - Step 8130 - Loss: 0.8840, Load Balancing Loss: 0.0921
+2025-02-21 10:37:39,790 - INFO - Step 8140 - Loss: 0.1777, Load Balancing Loss: 0.1014
+2025-02-21 10:38:12,491 - INFO - Step 8150 - Loss: 0.9638, Load Balancing Loss: 0.0879
+2025-02-21 10:38:45,313 - INFO - Step 8160 - Loss: 0.8119, Load Balancing Loss: 0.0962
+2025-02-21 10:39:18,045 - INFO - Step 8170 - Loss: 0.2491, Load Balancing Loss: 0.0956
+2025-02-21 10:39:50,774 - INFO - Step 8180 - Loss: 0.5715, Load Balancing Loss: 0.0911
+2025-02-21 10:40:23,502 - INFO - Step 8190 - Loss: 0.4001, Load Balancing Loss: 0.1004
+2025-02-21 10:40:56,237 - INFO - Step 8200 - Loss: 0.4460, Load Balancing Loss: 0.0989
+2025-02-21 10:41:01,705 - INFO - Saved checkpoint at step 8200
+2025-02-21 10:41:01,717 - INFO - Sample generation:
+ Title: The Unexpected Ally Within
+
+I never thought I would face backlash from my own community - the very place where I sought refuge and acceptance. You see, after years of struggling with my identity, I finally gathered the courage to come out as transgender at the age of 30. Yes, you read that right; I was well into my third decade when I embraced who I truly am.
+
+Growing up in a small town, I had been conditioned to believe that being anything other than cisgender wasn't "normal." My family, while loving, held traditional views on gender roles and sexuality. When I mustered
+2025-02-21 10:41:34,555 - INFO - Step 8210 - Loss: 0.2373, Load Balancing Loss: 0.1007
+2025-02-21 10:42:07,287 - INFO - Step 8220 - Loss: 0.6040, Load Balancing Loss: 0.0976
+2025-02-21 10:42:40,009 - INFO - Step 8230 - Loss: 0.3819, Load Balancing Loss: 0.0943
+2025-02-21 10:43:12,752 - INFO - Step 8240 - Loss: 0.4004, Load Balancing Loss: 0.0978
+2025-02-21 10:43:45,462 - INFO - Step 8250 - Loss: 0.7378, Load Balancing Loss: 0.0943
+2025-02-21 10:44:18,174 - INFO - Step 8260 - Loss: 0.2324, Load Balancing Loss: 0.0944
+2025-02-21 10:44:50,954 - INFO - Step 8270 - Loss: 0.6246, Load Balancing Loss: 0.0950
+2025-02-21 10:45:23,702 - INFO - Step 8280 - Loss: 0.1120, Load Balancing Loss: 0.0958
+2025-02-21 10:45:56,455 - INFO - Step 8290 - Loss: 0.4769, Load Balancing Loss: 0.0997
+2025-02-21 10:46:29,174 - INFO - Step 8300 - Loss: 0.5718, Load Balancing Loss: 0.0924
+2025-02-21 10:46:34,603 - INFO - Saved checkpoint at step 8300
+2025-02-21 10:46:34,613 - INFO - Sample generation:
+ Course Unit: Antiques & Collectibles - Exploring California's Gold Rush Towns through History and Halloween
+
+I. Introduction
+A. Background Information
+1. Brief overview of California's Gold Rush era and its impact on the state's culture and economy.
+2. Connection between antiques and collectibles, holidays (specifically Halloween), and historical sites like California's gold rush towns.
+B. Learning Objectives
+1. Understand the historical significance of California's gold rush towns.
+2. Identify key antiques and collectibles associated with gold rush towns and their role in preserving history.
+3. Discover how contemporary society celebrates Halloween by incorporating elements of
+2025-02-21 10:47:07,477 - INFO - Step 8310 - Loss: 0.6105, Load Balancing Loss: 0.1003
+2025-02-21 10:47:40,183 - INFO - Step 8320 - Loss: 0.8245, Load Balancing Loss: 0.0850
+2025-02-21 10:48:12,894 - INFO - Step 8330 - Loss: 0.3483, Load Balancing Loss: 0.0958
+2025-02-21 10:48:45,616 - INFO - Step 8340 - Loss: 0.2642, Load Balancing Loss: 0.0916
+2025-02-21 10:49:18,327 - INFO - Step 8350 - Loss: 0.4673, Load Balancing Loss: 0.0939
+2025-02-21 10:49:51,015 - INFO - Step 8360 - Loss: 0.3534, Load Balancing Loss: 0.0967
+2025-02-21 10:50:23,720 - INFO - Step 8370 - Loss: 0.6160, Load Balancing Loss: 0.0919
+2025-02-21 10:50:56,454 - INFO - Step 8380 - Loss: 0.5698, Load Balancing Loss: 0.0881
+2025-02-21 10:51:29,206 - INFO - Step 8390 - Loss: 0.2703, Load Balancing Loss: 0.1050
+2025-02-21 10:52:01,952 - INFO - Step 8400 - Loss: 0.3319, Load Balancing Loss: 0.1033
+2025-02-21 10:52:07,352 - INFO - Saved checkpoint at step 8400
+2025-02-21 10:52:07,353 - INFO - Sample generation:
+ Hello there! Today, let's learn about something super cool called Reframing as part of Self-Help and Neuro-Linguistic Programming (NLP). It's all about looking at things differently so we can feel better and grow. I promise it's going to be fun and helpful!
+
+Imagine finding a pair of old glasses. You try them on, but they don't fit quite right, and everything looks weird and blurry. Wouldn't it be great if you could adjust those glasses to see clearly again? That's what Reframing does - it helps us change how we look at things when they seem confusing or upsetting.
+2025-02-21 10:52:40,159 - INFO - Step 8410 - Loss: 0.5834, Load Balancing Loss: 0.0924
+2025-02-21 10:53:12,915 - INFO - Step 8420 - Loss: 0.8104, Load Balancing Loss: 0.0886
+2025-02-21 10:53:45,670 - INFO - Step 8430 - Loss: 0.6160, Load Balancing Loss: 0.0975
+2025-02-21 10:54:18,713 - INFO - Step 8440 - Loss: 0.9770, Load Balancing Loss: 0.0846
+2025-02-21 10:54:51,522 - INFO - Step 8450 - Loss: 0.4137, Load Balancing Loss: 0.0971
+2025-02-21 10:55:24,246 - INFO - Step 8460 - Loss: 0.1785, Load Balancing Loss: 0.1035
+2025-02-21 10:55:56,987 - INFO - Step 8470 - Loss: 0.4683, Load Balancing Loss: 0.0969
+2025-02-21 10:56:29,690 - INFO - Step 8480 - Loss: 0.9922, Load Balancing Loss: 0.0834
+2025-02-21 10:57:02,445 - INFO - Step 8490 - Loss: 0.3955, Load Balancing Loss: 0.1042
+2025-02-21 10:57:35,189 - INFO - Step 8500 - Loss: 0.5924, Load Balancing Loss: 0.0912
+2025-02-21 10:57:40,446 - INFO - Saved checkpoint at step 8500
+2025-02-21 10:57:40,447 - INFO - Sample generation:
+ Course Unit: Uncovering Secrets - Investigative Journalism and National Issues
+
+Lesson 1: What is Investigative Journalism?
+
+Imagine you are the first person to discover something new about your school or community that no one else knows. Maybe there's a mystery behind the missing lunch money, or perhaps there's a hidden garden on school property. As an investigative journalist, it's your job to dig deeper, ask questions, and find out the truth!
+
+Investigative journalism is a type of reporting where journalists conduct extensive research and analysis to uncover information that is otherwise unknown or kept secret from the public. They use various techniques
+2025-02-21 10:58:13,262 - INFO - Step 8510 - Loss: 0.7637, Load Balancing Loss: 0.0945
+2025-02-21 10:58:45,997 - INFO - Step 8520 - Loss: 0.2628, Load Balancing Loss: 0.0878
+2025-02-21 10:59:18,759 - INFO - Step 8530 - Loss: 0.3843, Load Balancing Loss: 0.1011
+2025-02-21 10:59:51,491 - INFO - Step 8540 - Loss: 0.5166, Load Balancing Loss: 0.0870
+2025-02-21 11:00:24,253 - INFO - Step 8550 - Loss: 0.2274, Load Balancing Loss: 0.0914
+2025-02-21 11:00:57,014 - INFO - Step 8560 - Loss: 0.9090, Load Balancing Loss: 0.0874
+2025-02-21 11:01:29,736 - INFO - Step 8570 - Loss: 0.6520, Load Balancing Loss: 0.0896
+2025-02-21 11:02:02,456 - INFO - Step 8580 - Loss: 0.3229, Load Balancing Loss: 0.0984
+2025-02-21 11:02:35,194 - INFO - Step 8590 - Loss: 0.0895, Load Balancing Loss: 0.1026
+2025-02-21 11:03:07,971 - INFO - Step 8600 - Loss: 0.6054, Load Balancing Loss: 0.0833
+2025-02-21 11:03:13,576 - INFO - Saved checkpoint at step 8600
+2025-02-21 11:03:13,576 - INFO - Sample generation:
+ Title: Treatment-Resistant Depression: Exploring the Role of Exercise Therapy in Depressive Illness
+
+Introduction
+
+Depression is a pervasive mental health disorder that affects millions of people worldwide. While various treatments such as medications and psychotherapies are available, they do not always yield optimal outcomes. In fact, approximately one-third of individuals diagnosed with depression fail to achieve symptomatic relief despite adequate pharmacological and psychological interventions (Fekadu et al., 2018). This phenomenon is commonly referred to as treatment-resistant depression (TRD), which poses significant challenges for healthcare providers seeking effective therapeutic options. One promising avenue for addressing TR
+2025-02-21 11:03:46,407 - INFO - Step 8610 - Loss: 0.1103, Load Balancing Loss: 0.1072
+2025-02-21 11:04:19,144 - INFO - Step 8620 - Loss: 0.2067, Load Balancing Loss: 0.0965
+2025-02-21 11:04:51,882 - INFO - Step 8630 - Loss: 0.3397, Load Balancing Loss: 0.0913
+2025-02-21 11:05:24,618 - INFO - Step 8640 - Loss: 0.3918, Load Balancing Loss: 0.0923
+2025-02-21 11:05:57,350 - INFO - Step 8650 - Loss: 0.9054, Load Balancing Loss: 0.1004
+2025-02-21 11:06:30,043 - INFO - Step 8660 - Loss: 0.6236, Load Balancing Loss: 0.0877
+2025-02-21 11:07:02,794 - INFO - Step 8670 - Loss: 0.6352, Load Balancing Loss: 0.0949
+2025-02-21 11:07:35,529 - INFO - Step 8680 - Loss: 0.5154, Load Balancing Loss: 0.0875
+2025-02-21 11:08:08,259 - INFO - Step 8690 - Loss: 0.1060, Load Balancing Loss: 0.1050
+2025-02-21 11:08:40,990 - INFO - Step 8700 - Loss: 0.1288, Load Balancing Loss: 0.1020
+2025-02-21 11:08:46,461 - INFO - Saved checkpoint at step 8700
+2025-02-21 11:08:46,468 - INFO - Sample generation:
+ **Course Unit: Women's Writing - A Literary Journey Through African Voices**
+
+*Welcome to our journey into the fascinating world of women’s literature! This collection brings together stories by incredible writers hailing from the continent of Africa. These powerful voices share their unique perspectives and experiences, weaving tales that will both entertain and enlighten you.*
+
+---
+
+**Lesson 1: Introducing Women's Writing**
+
+In this lesson, we explore what it means when someone refers to 'women's writing.' We'll learn about how men and women might write differently based on their life experiences and social roles. To help us understand
+2025-02-21 11:09:19,271 - INFO - Step 8710 - Loss: 0.3972, Load Balancing Loss: 0.0894
+2025-02-21 11:09:52,030 - INFO - Step 8720 - Loss: 0.7034, Load Balancing Loss: 0.0889
+2025-02-21 11:10:24,774 - INFO - Step 8730 - Loss: 0.4332, Load Balancing Loss: 0.0903
+2025-02-21 11:10:57,519 - INFO - Step 8740 - Loss: 0.1550, Load Balancing Loss: 0.0938
+2025-02-21 11:11:30,208 - INFO - Step 8750 - Loss: 0.2630, Load Balancing Loss: 0.0946
+2025-02-21 11:12:02,957 - INFO - Step 8760 - Loss: 0.5635, Load Balancing Loss: 0.0915
+2025-02-21 11:12:35,559 - INFO - Step 8770 - Loss: 0.5390, Load Balancing Loss: 0.0842
+2025-02-21 11:13:08,279 - INFO - Step 8780 - Loss: 0.1901, Load Balancing Loss: 0.0965
+2025-02-21 11:13:40,986 - INFO - Step 8790 - Loss: 0.6472, Load Balancing Loss: 0.0935
+2025-02-21 11:14:13,696 - INFO - Step 8800 - Loss: 0.5542, Load Balancing Loss: 0.0953
+2025-02-21 11:14:19,141 - INFO - Saved checkpoint at step 8800
+2025-02-21 11:14:19,141 - INFO - Sample generation:
+ Chapter 7: The Seven Aeons - Unraveling Gnostic Mysteries in Religion
+
+In the realm of religious scholarship, few topics spark as much curiosity and debate as Gnosticism, an esoteric movement that thrived during the early Christian era. Amongst its most fascinating aspects lies the concept of the Seven Aeons, which this chapter delves into, providing you with an in-depth understanding of their role in shaping Gnostic beliefs.
+
+To begin, let us explore what constitutes Gnosticism. Derived from the Greek word gnosis, meaning 'knowledge', Gnosticism refers to various mystical sects and philosophies that emerged in the Hellenistic world. These groups
+2025-02-21 11:14:51,969 - INFO - Step 8810 - Loss: 0.2018, Load Balancing Loss: 0.0962
+2025-02-21 11:15:24,715 - INFO - Step 8820 - Loss: 0.4032, Load Balancing Loss: 0.1019
+2025-02-21 11:15:57,434 - INFO - Step 8830 - Loss: 0.6281, Load Balancing Loss: 0.0897
+2025-02-21 11:16:30,161 - INFO - Step 8840 - Loss: 0.4216, Load Balancing Loss: 0.1013
+2025-02-21 11:17:02,910 - INFO - Step 8850 - Loss: 0.6802, Load Balancing Loss: 0.0971
+2025-02-21 11:17:35,653 - INFO - Step 8860 - Loss: 0.0352, Load Balancing Loss: 0.1038
+2025-02-21 11:18:08,372 - INFO - Step 8870 - Loss: 0.1149, Load Balancing Loss: 0.1024
+2025-02-21 11:18:41,088 - INFO - Step 8880 - Loss: 0.4427, Load Balancing Loss: 0.0953
+2025-02-21 11:19:13,798 - INFO - Step 8890 - Loss: 0.1675, Load Balancing Loss: 0.0998
+2025-02-21 11:19:46,507 - INFO - Step 8900 - Loss: 0.2467, Load Balancing Loss: 0.0998
+2025-02-21 11:19:52,050 - INFO - Saved checkpoint at step 8900
+2025-02-21 11:19:52,050 - INFO - Sample generation:
+Chapter 10: Exploring Our Dreams - A Journey Into the World of Sleep and Subconscious Mind
+
+Have you ever woken up after having a strange dream and wondered, "what did that mean?" Well, you're not alone! Many people have questions about their dreams and why we have them. Let's embark on an exciting journey through the world of sleep and dreams to learn more about this mysterious yet fascinating phenomenon.
+
+Section 1: What Are Dreams and Why Do We Have Them?
+
+Imagine dreams as stories created by your brain while you sleep. These narratives might seem bizarre, fun, scary, or even
+2025-02-21 11:20:24,852 - INFO - Step 8910 - Loss: 0.1573, Load Balancing Loss: 0.1075
+2025-02-21 11:20:57,590 - INFO - Step 8920 - Loss: 0.3184, Load Balancing Loss: 0.0888
+2025-02-21 11:21:30,304 - INFO - Step 8930 - Loss: 0.3233, Load Balancing Loss: 0.0960
+2025-02-21 11:22:03,059 - INFO - Step 8940 - Loss: 0.1338, Load Balancing Loss: 0.0928
+2025-02-21 11:22:35,815 - INFO - Step 8950 - Loss: 0.4780, Load Balancing Loss: 0.0922
+2025-02-21 11:23:08,527 - INFO - Step 8960 - Loss: 0.3712, Load Balancing Loss: 0.0968
+2025-02-21 11:23:41,288 - INFO - Step 8970 - Loss: 0.6255, Load Balancing Loss: 0.0843
+2025-02-21 11:24:14,000 - INFO - Step 8980 - Loss: 0.9588, Load Balancing Loss: 0.0910
+2025-02-21 11:24:46,719 - INFO - Step 8990 - Loss: 0.0263, Load Balancing Loss: 0.1018
+2025-02-21 11:25:19,436 - INFO - Step 9000 - Loss: 0.4710, Load Balancing Loss: 0.0927
+2025-02-21 11:25:24,849 - INFO - Saved checkpoint at step 9000
+2025-02-21 11:25:24,859 - INFO - Sample generation:
+ Oral Pathology: A Journey into the Mouth's Microcosm
+
+Introduction
+
+The human body is a complex system of interconnected organs and systems, each playing a vital role in maintaining overall health. The oral cavity, a small yet critical component of this intricate network, serves as the gateway to the digestive and respiratory tracts. This seemingly simple entity houses a diverse ecosystem of microorganisms, cells, and tissues that work together to facilitate essential functions such as speech, mastication, and swallowing. However, like any other part of the body, the oral cavity is susceptible to various pathological conditions, necessitating a specialized field of study dedicated to understanding, diagnosing,
+2025-02-21 11:25:57,712 - INFO - Step 9010 - Loss: 0.2793, Load Balancing Loss: 0.1027
+2025-02-21 11:26:30,414 - INFO - Step 9020 - Loss: 0.2319, Load Balancing Loss: 0.0918
+2025-02-21 11:27:03,181 - INFO - Step 9030 - Loss: 0.3930, Load Balancing Loss: 0.0991
+2025-02-21 11:27:35,921 - INFO - Step 9040 - Loss: 0.4390, Load Balancing Loss: 0.0855
+2025-02-21 11:28:08,650 - INFO - Step 9050 - Loss: 0.5818, Load Balancing Loss: 0.0950
+2025-02-21 11:28:41,439 - INFO - Step 9060 - Loss: 0.4808, Load Balancing Loss: 0.0921
+2025-02-21 11:29:14,232 - INFO - Step 9070 - Loss: 0.1612, Load Balancing Loss: 0.0940
+2025-02-21 11:29:46,956 - INFO - Step 9080 - Loss: 0.5329, Load Balancing Loss: 0.0924
+2025-02-21 11:30:19,699 - INFO - Step 9090 - Loss: 0.2650, Load Balancing Loss: 0.0953
+2025-02-21 11:30:52,446 - INFO - Step 9100 - Loss: 0.5635, Load Balancing Loss: 0.0891
+2025-02-21 11:30:57,777 - INFO - Saved checkpoint at step 9100
+2025-02-21 11:30:57,785 - INFO - Sample generation:
+ Chapter 7: Meetings and Fellowship – The Heart of Self-Help and Twelve-Step Programs
+
+In the vast landscape of self-help and recovery programs, few methodologies can claim the widespread impact and success of the Twelve-Step model. First popularized through Alcoholics Anonymous (AA), this approach has since been adapted by numerous organizations seeking to address various forms of addiction and compulsion. At the very core of these fellowships lie meetings and fellowship—the lifeblood that sustains recovering individuals and offers them a sense of belonging, hope, and healing. This chapter delves into the profound significance of gatherings and camaraderie within the context of Twelve
+2025-02-21 11:31:30,616 - INFO - Step 9110 - Loss: 0.2206, Load Balancing Loss: 0.0992
+2025-02-21 11:32:03,346 - INFO - Step 9120 - Loss: 0.3474, Load Balancing Loss: 0.0950
+2025-02-21 11:32:36,085 - INFO - Step 9130 - Loss: 0.3842, Load Balancing Loss: 0.0905
+2025-02-21 11:33:09,060 - INFO - Step 9140 - Loss: 0.4012, Load Balancing Loss: 0.0999
+2025-02-21 11:33:41,867 - INFO - Step 9150 - Loss: 0.2911, Load Balancing Loss: 0.0906
+2025-02-21 11:34:14,557 - INFO - Step 9160 - Loss: 0.4240, Load Balancing Loss: 0.1021
+2025-02-21 11:34:47,273 - INFO - Step 9170 - Loss: 0.1776, Load Balancing Loss: 0.1017
+2025-02-21 11:35:19,965 - INFO - Step 9180 - Loss: 0.1426, Load Balancing Loss: 0.0940
+2025-02-21 11:35:52,664 - INFO - Step 9190 - Loss: 0.4311, Load Balancing Loss: 0.0938
+2025-02-21 11:36:25,371 - INFO - Step 9200 - Loss: 0.0913, Load Balancing Loss: 0.0916
+2025-02-21 11:36:30,885 - INFO - Saved checkpoint at step 9200
+2025-02-21 11:36:30,885 - INFO - Sample generation:
+ Course Unit: Canadian Romance - Love Across Borders
+
+Introduction:
+Have you ever read a book or watched a movie where two people fall in love, go on adventures together, and overcome obstacles to be together in the end? That's romance fiction! While many romances are set in specific countries like the United States or England, today we will explore romantic tales from Canada. These stories showcase how love can bring people together no matter where they come from.
+
+Section 1: What is Canadian Romance?
+Canadian romance refers to books written by Canadian authors featuring love stories set within Canada or involving Canadian characters. Just like any other romance
+2025-02-21 11:37:03,735 - INFO - Step 9210 - Loss: 0.3009, Load Balancing Loss: 0.0861
+2025-02-21 11:37:36,478 - INFO - Step 9220 - Loss: 0.7671, Load Balancing Loss: 0.0964
+2025-02-21 11:38:09,249 - INFO - Step 9230 - Loss: 0.4212, Load Balancing Loss: 0.0914
+2025-02-21 11:38:42,041 - INFO - Step 9240 - Loss: 0.0719, Load Balancing Loss: 0.0996
+2025-02-21 11:39:14,760 - INFO - Step 9250 - Loss: 0.2880, Load Balancing Loss: 0.0917
+2025-02-21 11:39:47,467 - INFO - Step 9260 - Loss: 0.3001, Load Balancing Loss: 0.0929
+2025-02-21 11:40:20,220 - INFO - Step 9270 - Loss: 0.2029, Load Balancing Loss: 0.0968
+2025-02-21 11:40:52,964 - INFO - Step 9280 - Loss: 0.4000, Load Balancing Loss: 0.0846
+2025-02-21 11:41:25,686 - INFO - Step 9290 - Loss: 0.1656, Load Balancing Loss: 0.0959
+2025-02-21 11:41:58,431 - INFO - Step 9300 - Loss: 0.3690, Load Balancing Loss: 0.0929
+2025-02-21 11:42:03,861 - INFO - Saved checkpoint at step 9300
+2025-02-21 11:42:03,869 - INFO - Sample generation:
+ Course Unit: Understanding Emptiness (Sunyata) in Zen Buddhism
+
+Lesson 1: Introduction to Emptiness (Sunyata)
+
+Imagine trying to hold onto water in your hands – no matter how tightly you squeeze, it always slips away. This idea can help us understand one of the core concepts in Zen Buddhism called emptiness, or sunyata. At first glance, emptiness might sound sad or scary, but actually, it means something quite fascinating! Let's explore what emptiness truly signifies.
+
+Emptiness refers to the idea that everything we perceive around us isn’t as solid or separate as
+2025-02-21 11:42:36,991 - INFO - Step 9310 - Loss: 0.5956, Load Balancing Loss: 0.0853
+2025-02-21 11:43:09,736 - INFO - Step 9320 - Loss: 0.4626, Load Balancing Loss: 0.0910
+2025-02-21 11:43:42,437 - INFO - Step 9330 - Loss: 0.2662, Load Balancing Loss: 0.0933
+2025-02-21 11:44:15,191 - INFO - Step 9340 - Loss: 0.0701, Load Balancing Loss: 0.0973
+2025-02-21 11:44:47,931 - INFO - Step 9350 - Loss: 0.0872, Load Balancing Loss: 0.0999
+2025-02-21 11:45:20,644 - INFO - Step 9360 - Loss: 0.1664, Load Balancing Loss: 0.0935
+2025-02-21 11:45:53,354 - INFO - Step 9370 - Loss: 0.3782, Load Balancing Loss: 0.0844
+2025-02-21 11:46:26,044 - INFO - Step 9380 - Loss: 0.3336, Load Balancing Loss: 0.0907
+2025-02-21 11:46:58,792 - INFO - Step 9390 - Loss: 0.1018, Load Balancing Loss: 0.0982
+2025-02-21 11:47:31,508 - INFO - Step 9400 - Loss: 0.3813, Load Balancing Loss: 0.0934
+2025-02-21 11:47:36,913 - INFO - Saved checkpoint at step 9400
+2025-02-21 11:47:36,923 - INFO - Sample generation:
+ Title: A Forgotten Pact
+
+I remember when I first started working at the Federal Building in NYC. The building was a sight to behold, standing tall and proud against the city skyline. One day, during my orientation, our facility manager mentioned something about having partnerships with local emergency services for additional support in case of a natural disaster. At the time, it seemed like just another routine procedure, but looking back now, those words took on a whole new meaning.
+
+A few years into my job, Hurricane Sandy hit. We were prepared; or so we thought. Evacuation plans were in motion as the storm ra
+2025-02-21 11:48:09,756 - INFO - Step 9410 - Loss: 0.4530, Load Balancing Loss: 0.0925
+2025-02-21 11:48:42,455 - INFO - Step 9420 - Loss: 0.2015, Load Balancing Loss: 0.0995
+2025-02-21 11:49:15,187 - INFO - Step 9430 - Loss: 0.2955, Load Balancing Loss: 0.0987
+2025-02-21 11:49:47,886 - INFO - Step 9440 - Loss: 0.1760, Load Balancing Loss: 0.0884
+2025-02-21 11:50:20,619 - INFO - Step 9450 - Loss: 0.1597, Load Balancing Loss: 0.0979
+2025-02-21 11:50:53,352 - INFO - Step 9460 - Loss: 0.1272, Load Balancing Loss: 0.0995
+2025-02-21 11:51:26,098 - INFO - Step 9470 - Loss: 0.2074, Load Balancing Loss: 0.0910
+2025-02-21 11:51:58,794 - INFO - Step 9480 - Loss: 0.1164, Load Balancing Loss: 0.0871
+2025-02-21 11:52:31,523 - INFO - Step 9490 - Loss: 0.1752, Load Balancing Loss: 0.0905
+2025-02-21 11:53:04,261 - INFO - Step 9500 - Loss: 0.6510, Load Balancing Loss: 0.0890
+2025-02-21 11:53:09,654 - INFO - Saved checkpoint at step 9500
+2025-02-21 11:53:42,780 - INFO - Step 9510 - Loss: 0.3036, Load Balancing Loss: 0.0903
+2025-02-21 11:54:15,538 - INFO - Step 9520 - Loss: 0.2549, Load Balancing Loss: 0.0967
+2025-02-21 11:54:48,275 - INFO - Step 9530 - Loss: 0.3047, Load Balancing Loss: 0.1010
+2025-02-21 11:55:21,025 - INFO - Step 9540 - Loss: 0.2850, Load Balancing Loss: 0.0860
+2025-02-21 11:55:53,736 - INFO - Step 9550 - Loss: 0.0882, Load Balancing Loss: 0.0990
+2025-02-21 11:56:26,459 - INFO - Step 9560 - Loss: 0.3767, Load Balancing Loss: 0.0972
+2025-02-21 11:56:59,202 - INFO - Step 9570 - Loss: 0.1186, Load Balancing Loss: 0.0889
+2025-02-21 11:57:31,939 - INFO - Step 9580 - Loss: 0.2568, Load Balancing Loss: 0.0933
+2025-02-21 11:58:04,627 - INFO - Step 9590 - Loss: 0.1060, Load Balancing Loss: 0.0957
+2025-02-21 11:58:37,322 - INFO - Step 9600 - Loss: 0.2383, Load Balancing Loss: 0.0956
+2025-02-21 11:58:42,752 - INFO - Saved checkpoint at step 9600
+2025-02-21 11:58:42,762 - INFO - Sample generation:
+ Unit VII: Public Installations as a Form of Public Art
+
+Introduction:
+Public installations serve as a unique and dynamic form of public art that engages communities and transforms shared spaces. These artworks often interact with the environment, architecture, and people who inhabit these areas. By exploring the concept of public installations through historical context, contemporary practices, and theoretical frameworks, this unit aims to provide students with a deeper understanding of how artists use this medium to create meaningful connections between art, place, and audience.
+
+I. Historical Context of Public Installations
+Historically, public art can be traced back to ancient civilizations where monumental sculptures, murals,
+2025-02-21 11:59:15,871 - INFO - Step 9610 - Loss: 0.0476, Load Balancing Loss: 0.1078
+2025-02-21 11:59:48,570 - INFO - Step 9620 - Loss: 0.1937, Load Balancing Loss: 0.0822
+2025-02-21 12:00:21,284 - INFO - Step 9630 - Loss: 0.3345, Load Balancing Loss: 0.0967
+2025-02-21 12:00:54,031 - INFO - Step 9640 - Loss: 0.1258, Load Balancing Loss: 0.1065
+2025-02-21 12:01:26,757 - INFO - Step 9650 - Loss: 0.1666, Load Balancing Loss: 0.1015
+2025-02-21 12:01:59,531 - INFO - Step 9660 - Loss: 0.4853, Load Balancing Loss: 0.0945
+2025-02-21 12:02:32,264 - INFO - Step 9670 - Loss: 0.2551, Load Balancing Loss: 0.0910
+2025-02-21 12:03:05,023 - INFO - Step 9680 - Loss: 0.0854, Load Balancing Loss: 0.0900
+2025-02-21 12:03:37,728 - INFO - Step 9690 - Loss: 0.1357, Load Balancing Loss: 0.0996
+2025-02-21 12:04:10,483 - INFO - Step 9700 - Loss: 0.2039, Load Balancing Loss: 0.1062
+2025-02-21 12:04:15,950 - INFO - Saved checkpoint at step 9700
+2025-02-21 12:04:15,954 - INFO - Sample generation:
+ Course Unit: Exploring the Art of Tattoos
+
+Introduction:
+Tattoos are a beautiful form of self-expression that has been around for thousands of years. They come in all shapes, sizes, colors, and styles, each telling a story about the person wearing them. Whether it's a symbol representing a special memory, a tribute to someone important, or simply a piece of art you love, getting a tattoo can be a meaningful experience. But before jumping into the world of tattoos, there are some essential aspects to understand. This course unit will introduce you to the fascinating history and culture of tattoos while providing guidance on selecting your first
+2025-02-21 12:04:48,797 - INFO - Step 9710 - Loss: 0.4110, Load Balancing Loss: 0.0959
+2025-02-21 12:05:21,542 - INFO - Step 9720 - Loss: 0.4103, Load Balancing Loss: 0.0872
+2025-02-21 12:05:54,310 - INFO - Step 9730 - Loss: 0.0646, Load Balancing Loss: 0.0981
+2025-02-21 12:06:27,032 - INFO - Step 9740 - Loss: 0.4300, Load Balancing Loss: 0.0971
+2025-02-21 12:06:59,765 - INFO - Step 9750 - Loss: 0.0873, Load Balancing Loss: 0.0916
+2025-02-21 12:07:32,477 - INFO - Step 9760 - Loss: 0.0656, Load Balancing Loss: 0.0942
+2025-02-21 12:08:05,206 - INFO - Step 9770 - Loss: 0.3808, Load Balancing Loss: 0.0975
+2025-02-21 12:08:37,911 - INFO - Step 9780 - Loss: 0.1662, Load Balancing Loss: 0.0970
+2025-02-21 12:09:10,654 - INFO - Step 9790 - Loss: 0.3652, Load Balancing Loss: 0.0911
+2025-02-21 12:09:43,374 - INFO - Step 9800 - Loss: 0.0363, Load Balancing Loss: 0.1017
+2025-02-21 12:09:48,903 - INFO - Saved checkpoint at step 9800
+2025-02-21 12:09:48,903 - INFO - Sample generation:
+ Welcome to our economics adventure! Today we're going to explore some big ideas about how countries can create prosperity and abundance for everyone. We will learn about a brilliant thinker named Henry George who had a unique way of looking at things. He didn't want people to have to choose between having a strong economy OR protecting the environment – he wanted them to go hand in hand! Let's dive in!
+
+Imagine you are planning a party with your friends. You really want there to be delicious pizza, fun music, and cool decorations. But here's the catch - if you spend all your money on amazing pizza, you won't have enough
+2025-02-21 12:10:22,050 - INFO - Step 9810 - Loss: 0.1188, Load Balancing Loss: 0.0931
+2025-02-21 12:10:54,766 - INFO - Step 9820 - Loss: 0.1526, Load Balancing Loss: 0.0966
+2025-02-21 12:11:27,474 - INFO - Step 9830 - Loss: 0.1272, Load Balancing Loss: 0.0838
+2025-02-21 12:12:00,263 - INFO - Step 9840 - Loss: 0.2075, Load Balancing Loss: 0.0964
+2025-02-21 12:12:32,985 - INFO - Step 9850 - Loss: 0.1840, Load Balancing Loss: 0.0870
+2025-02-21 12:13:05,712 - INFO - Step 9860 - Loss: 0.4047, Load Balancing Loss: 0.0910
+2025-02-21 12:13:38,427 - INFO - Step 9870 - Loss: 0.2844, Load Balancing Loss: 0.0881
+2025-02-21 12:14:11,156 - INFO - Step 9880 - Loss: 0.0715, Load Balancing Loss: 0.0934
+2025-02-21 12:14:43,879 - INFO - Step 9890 - Loss: 0.3307, Load Balancing Loss: 0.0930
+2025-02-21 12:15:16,627 - INFO - Step 9900 - Loss: 0.1551, Load Balancing Loss: 0.0929
+2025-02-21 12:15:22,002 - INFO - Saved checkpoint at step 9900
+2025-02-21 12:15:22,013 - INFO - Sample generation:
+ Chapter 6: Marathons & Running Events
+
+In the world of sports, running events have always been at the forefront due to their simplicity, inclusivity, and accessibility. Among these running events, marathons hold a special place owing to their rich history, enduring popularity, and grueling challenge. This chapter delves into the intriguing aspects of marathon running while also exploring other exciting running events that are integral parts of modern athletics. We will examine their historical roots, rules, training methods, and contemporary relevance.
+
+6.1 Historical Origins: Revisiting the Legend of Pheidippides
+
+The concept of long-distance
+2025-02-21 12:15:55,126 - INFO - Step 9910 - Loss: 0.0362, Load Balancing Loss: 0.1082
+2025-02-21 12:16:27,812 - INFO - Step 9920 - Loss: 0.0889, Load Balancing Loss: 0.0949
+2025-02-21 12:17:00,546 - INFO - Step 9930 - Loss: 0.3022, Load Balancing Loss: 0.0916
+2025-02-21 12:17:33,254 - INFO - Step 9940 - Loss: 0.1963, Load Balancing Loss: 0.0934
+2025-02-21 12:18:05,985 - INFO - Step 9950 - Loss: 0.2300, Load Balancing Loss: 0.1005
+2025-02-21 12:18:38,714 - INFO - Step 9960 - Loss: 0.0995, Load Balancing Loss: 0.0935
+2025-02-21 12:19:11,469 - INFO - Step 9970 - Loss: 0.0414, Load Balancing Loss: 0.0987
+2025-02-21 12:19:44,200 - INFO - Step 9980 - Loss: 0.0794, Load Balancing Loss: 0.1082
+2025-02-21 12:20:16,944 - INFO - Step 9990 - Loss: 0.4967, Load Balancing Loss: 0.0976
+2025-02-21 12:20:49,635 - INFO - Step 10000 - Loss: 0.1422, Load Balancing Loss: 0.0909
+2025-02-21 12:20:54,956 - INFO - Saved checkpoint at step 10000
+2025-02-21 12:20:54,958 - INFO - Sample generation:
+ Chapter 16: Music Festivals Across America
+
+Have you ever heard of a music festival before? A music festival is a huge event where people gather together to enjoy live music performances by their favorite artists! These events often take place outside, in large parks or fields, and last for several days. People come from far and wide to attend these special concerts, sometimes camping out overnight to secure a good spot.
+
+Music festivals feature different types of music, including rock, pop, hip hop, country, electronic dance music, and more. Some festivals focus on just one type of music, while others showcase a variety of sounds
+2025-02-21 12:20:57,033 - INFO - Training completed. Final model saved.
